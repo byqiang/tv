@@ -20,25 +20,27 @@ proxies:
   - {"name":"美国f1 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":28000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
   - {"name":"美国f2 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":28001,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
   - {"name":"美国f3 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":28002,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"距离下次重置剩余：10 天","type":"vless","server":"ceshi.interld123456789.com","port":56701,"udp":true,"uuid":"fea113cc-660d-4712-9e96-e1f0355118b5","tls":true,"servername":"addons.mozilla.org","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"chrome"}
-  - {"name":"🇸🇬 新加坡-vless_2","type":"vless","server":"ceshi.interld123456789.com","port":56701,"udp":true,"uuid":"fea113cc-660d-4712-9e96-e1f0355118b5","tls":true,"servername":"addons.mozilla.org","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"chrome"}
-  - {"name":"🇯🇵 日本-vless_2","type":"vless","server":"vljp.interld123456789.com","port":56702,"udp":true,"uuid":"fea113cc-660d-4712-9e96-e1f0355118b5","tls":true,"servername":"addons.mozilla.org","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"chrome"}
-  - {"name":"一元百G：https://fscloud.vip_2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":24000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇯🇵 日本aws - 1","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":24000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇯🇵 日本aws - 2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":24000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇯🇵 日本aws - 3","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":24000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇸🇬 新加坡aws - 1","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":26000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇸🇬 新加坡aws - 2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":26000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇸🇬 新加坡aws - 3","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":26000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇭🇰 香港1 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":20000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇭🇰 香港2 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":20000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇭🇰 香港3 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":20000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇹🇼 台湾1 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":22000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇹🇼 台湾2 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":22000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇹🇼 台湾3 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":22000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇺🇸 美国1 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":28000,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇺🇸 美国2 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":28001,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"🇺🇸 美国3 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":28002,"password":"fea113cc-660d-4712-9e96-e1f0355118b5","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
+  - { name: '剩余流量：96.56 GB', type: vless, server: vlsg.interld123456789.com, port: 56701, uuid: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: firefox, servername: addons.mozilla.org, reality-opts: { public-key: sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
+  - { name: '距离下次重置剩余：13 天', type: vless, server: vlsg.interld123456789.com, port: 56701, uuid: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: firefox, servername: addons.mozilla.org, reality-opts: { public-key: sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
+  - { name: 套餐到期：2025-09-11, type: vless, server: vlsg.interld123456789.com, port: 56701, uuid: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: firefox, servername: addons.mozilla.org, reality-opts: { public-key: sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
+  - { name: 新加坡-vless, type: vless, server: vlsg.interld123456789.com, port: 56701, uuid: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: firefox, servername: addons.mozilla.org, reality-opts: { public-key: sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
+  - { name: 日本-vless, type: vless, server: vljp.interld123456789.com, port: 56702, uuid: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: firefox, servername: addons.mozilla.org, reality-opts: { public-key: sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
+  - { name: '一元百G：https://fscloud.vip', server: jiedianfsc.fsc.interld123456789.com, port: 24000, ports: 24000-25000, mport: 24000-25000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '日本aws - 001', server: jiedianfsc.fsc.interld123456789.com, port: 24000, ports: 24000-25000, mport: 24000-25000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '日本aws - 002', server: jiedianfsc.fsc.interld123456789.com, port: 24000, ports: 24000-25000, mport: 24000-25000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '日本aws - 003', server: jiedianfsc.fsc.interld123456789.com, port: 24000, ports: 24000-25000, mport: 24000-25000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '新加坡aws - 001', server: jiedianfsc.fsc.interld123456789.com, port: 26000, ports: 26000-27000, mport: 26000-27000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '新加坡aws - 002', server: jiedianfsc.fsc.interld123456789.com, port: 26000, ports: 26000-27000, mport: 26000-27000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '新加坡aws - 003', server: jiedianfsc.fsc.interld123456789.com, port: 26000, ports: 26000-27000, mport: 26000-27000, udp: true, skip-cert-verify: true, sni: 234224.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '香港001 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 20000, ports: 20000-21000, mport: 20000-21000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '香港002 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 20000, ports: 20000-21000, mport: 20000-21000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '香港003 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 20000, ports: 20000-21000, mport: 20000-21000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '台湾01 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 22000, ports: 22000-23000, mport: 22000-23000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '台湾002 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 22000, ports: 22000-23000, mport: 22000-23000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '台湾003 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 22000, ports: 22000-23000, mport: 22000-23000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '美国001 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 28000, ports: 28000-29000, mport: 28000-29000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '美国002 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 28001, ports: 28001-29000, mport: 28001-29000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
+  - { name: '美国003 - hysteria2', server: jiedianfsc.fsc.interld123456789.com, port: 28002, ports: 28002-29000, mport: 28002-29000, udp: true, skip-cert-verify: true, sni: cesuuu.1234567890spcloud.com, type: hysteria2, password: 7d2f6c70-68f8-4e81-9e51-7aef5af376d6 }
   - {"name":"剩余流量：326.14 GB350","type":"vless","server":"vlsg.interld123456789.com","port":56701,"udp":true,"uuid":"b1676447-0825-4b60-be37-735c9586735e","tls":true,"servername":"addons.mozilla.org","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
   - {"name":"距离下次重置剩余：19 天350","type":"vless","server":"vlsg.interld123456789.com","port":56701,"udp":true,"uuid":"b1676447-0825-4b60-be37-735c9586735e","tls":true,"servername":"addons.mozilla.org","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
   - {"name":"套餐到期：2024-12-01350","type":"vless","server":"vlsg.interld123456789.com","port":56701,"udp":true,"uuid":"b1676447-0825-4b60-be37-735c9586735e","tls":true,"servername":"addons.mozilla.org","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
@@ -150,25 +152,26 @@ proxy-groups:
       - 美国f1 - hysteria2
       - 美国f2 - hysteria2
       - 美国f3 - hysteria2
-      - 距离下次重置剩余：10 天
-      - 🇸🇬 新加坡-vless_2
-      - 🇯🇵 日本-vless_2
-      - 一元百G：https://fscloud.vip_2
-      - 🇯🇵 日本aws - 1
-      - 🇯🇵 日本aws - 2
-      - 🇯🇵 日本aws - 3
-      - 🇸🇬 新加坡aws - 1
-      - 🇸🇬 新加坡aws - 2
-      - 🇸🇬 新加坡aws - 3
-      - 🇭🇰 香港1 - hysteria2
-      - 🇭🇰 香港2 - hysteria2
-      - 🇭🇰 香港3 - hysteria2
-      - 🇹🇼 台湾1 - hysteria2
-      - 🇹🇼 台湾2 - hysteria2
-      - 🇹🇼 台湾3 - hysteria2
-      - 🇺🇸 美国1 - hysteria2
-      - 🇺🇸 美国2 - hysteria2
-      - 🇺🇸 美国3 - hysteria2
+      - 距离下次重置剩余：13 天
+      - 套餐到期：2025-09-11
+      - 新加坡-vless
+      - 日本-vless
+      - 一元百G：https://fscloud.vip
+      - 日本aws - 001
+      - 日本aws - 002
+      - 日本aws - 003
+      - 新加坡aws - 001
+      - 新加坡aws - 002
+      - 新加坡aws - 003
+      - 香港001 - hysteria2
+      - 香港002 - hysteria2
+      - 香港003 - hysteria2
+      - 台湾01 - hysteria2
+      - 台湾002 - hysteria2
+      - 台湾003 - hysteria2
+      - 美国001 - hysteria2
+      - 美国002 - hysteria2
+      - 美国003 - hysteria2
       - 剩余流量：326.14 GB350
       - 距离下次重置剩余：19 天350
       - 套餐到期：2024-12-01350
@@ -568,25 +571,26 @@ proxy-groups:
       - 美国f1 - hysteria2
       - 美国f2 - hysteria2
       - 美国f3 - hysteria2
-      - 距离下次重置剩余：10 天
-      - 🇸🇬 新加坡-vless_2
-      - 🇯🇵 日本-vless_2
-      - 一元百G：https://fscloud.vip_2
-      - 🇯🇵 日本aws - 1
-      - 🇯🇵 日本aws - 2
-      - 🇯🇵 日本aws - 3
-      - 🇸🇬 新加坡aws - 1
-      - 🇸🇬 新加坡aws - 2
-      - 🇸🇬 新加坡aws - 3
-      - 🇭🇰 香港1 - hysteria2
-      - 🇭🇰 香港2 - hysteria2
-      - 🇭🇰 香港3 - hysteria2
-      - 🇹🇼 台湾1 - hysteria2
-      - 🇹🇼 台湾2 - hysteria2
-      - 🇹🇼 台湾3 - hysteria2
-      - 🇺🇸 美国1 - hysteria2
-      - 🇺🇸 美国2 - hysteria2
-      - 🇺🇸 美国3 - hysteria2
+      - 距离下次重置剩余：13 天
+      - 套餐到期：2025-09-11
+      - 新加坡-vless
+      - 日本-vless
+      - 一元百G：https://fscloud.vip
+      - 日本aws - 001
+      - 日本aws - 002
+      - 日本aws - 003
+      - 新加坡aws - 001
+      - 新加坡aws - 002
+      - 新加坡aws - 003
+      - 香港001 - hysteria2
+      - 香港002 - hysteria2
+      - 香港003 - hysteria2
+      - 台湾01 - hysteria2
+      - 台湾002 - hysteria2
+      - 台湾003 - hysteria2
+      - 美国001 - hysteria2
+      - 美国002 - hysteria2
+      - 美国003 - hysteria2
       - 剩余流量：326.14 GB350
       - 距离下次重置剩余：19 天350
       - 套餐到期：2024-12-01350
@@ -695,25 +699,26 @@ proxy-groups:
       - 美国f1 - hysteria2
       - 美国f2 - hysteria2
       - 美国f3 - hysteria2
-      - 距离下次重置剩余：10 天
-      - 🇸🇬 新加坡-vless_2
-      - 🇯🇵 日本-vless_2
-      - 一元百G：https://fscloud.vip_2
-      - 🇯🇵 日本aws - 1
-      - 🇯🇵 日本aws - 2
-      - 🇯🇵 日本aws - 3
-      - 🇸🇬 新加坡aws - 1
-      - 🇸🇬 新加坡aws - 2
-      - 🇸🇬 新加坡aws - 3
-      - 🇭🇰 香港1 - hysteria2
-      - 🇭🇰 香港2 - hysteria2
-      - 🇭🇰 香港3 - hysteria2
-      - 🇹🇼 台湾1 - hysteria2
-      - 🇹🇼 台湾2 - hysteria2
-      - 🇹🇼 台湾3 - hysteria2
-      - 🇺🇸 美国1 - hysteria2
-      - 🇺🇸 美国2 - hysteria2
-      - 🇺🇸 美国3 - hysteria2
+      - 距离下次重置剩余：13 天
+      - 套餐到期：2025-09-11
+      - 新加坡-vless
+      - 日本-vless
+      - 一元百G：https://fscloud.vip
+      - 日本aws - 001
+      - 日本aws - 002
+      - 日本aws - 003
+      - 新加坡aws - 001
+      - 新加坡aws - 002
+      - 新加坡aws - 003
+      - 香港001 - hysteria2
+      - 香港002 - hysteria2
+      - 香港003 - hysteria2
+      - 台湾01 - hysteria2
+      - 台湾002 - hysteria2
+      - 台湾003 - hysteria2
+      - 美国001 - hysteria2
+      - 美国002 - hysteria2
+      - 美国003 - hysteria2
       - 剩余流量：326.14 GB350
       - 距离下次重置剩余：19 天350
       - 套餐到期：2024-12-01350
@@ -822,25 +827,26 @@ proxy-groups:
       - 美国f1 - hysteria2
       - 美国f2 - hysteria2
       - 美国f3 - hysteria2
-      - 距离下次重置剩余：10 天
-      - 🇸🇬 新加坡-vless_2
-      - 🇯🇵 日本-vless_2
-      - 一元百G：https://fscloud.vip_2
-      - 🇯🇵 日本aws - 1
-      - 🇯🇵 日本aws - 2
-      - 🇯🇵 日本aws - 3
-      - 🇸🇬 新加坡aws - 1
-      - 🇸🇬 新加坡aws - 2
-      - 🇸🇬 新加坡aws - 3
-      - 🇭🇰 香港1 - hysteria2
-      - 🇭🇰 香港2 - hysteria2
-      - 🇭🇰 香港3 - hysteria2
-      - 🇹🇼 台湾1 - hysteria2
-      - 🇹🇼 台湾2 - hysteria2
-      - 🇹🇼 台湾3 - hysteria2
-      - 🇺🇸 美国1 - hysteria2
-      - 🇺🇸 美国2 - hysteria2
-      - 🇺🇸 美国3 - hysteria2
+      - 距离下次重置剩余：13 天
+      - 套餐到期：2025-09-11
+      - 新加坡-vless
+      - 日本-vless
+      - 一元百G：https://fscloud.vip
+      - 日本aws - 001
+      - 日本aws - 002
+      - 日本aws - 003
+      - 新加坡aws - 001
+      - 新加坡aws - 002
+      - 新加坡aws - 003
+      - 香港001 - hysteria2
+      - 香港002 - hysteria2
+      - 香港003 - hysteria2
+      - 台湾01 - hysteria2
+      - 台湾002 - hysteria2
+      - 台湾003 - hysteria2
+      - 美国001 - hysteria2
+      - 美国002 - hysteria2
+      - 美国003 - hysteria2
       - 剩余流量：326.14 GB350
       - 距离下次重置剩余：19 天350
       - 套餐到期：2024-12-01350
@@ -961,25 +967,26 @@ proxy-groups:
       - 美国f1 - hysteria2
       - 美国f2 - hysteria2
       - 美国f3 - hysteria2
-      - 距离下次重置剩余：10 天
-      - 🇸🇬 新加坡-vless_2
-      - 🇯🇵 日本-vless_2
-      - 一元百G：https://fscloud.vip_2
-      - 🇯🇵 日本aws - 1
-      - 🇯🇵 日本aws - 2
-      - 🇯🇵 日本aws - 3
-      - 🇸🇬 新加坡aws - 1
-      - 🇸🇬 新加坡aws - 2
-      - 🇸🇬 新加坡aws - 3
-      - 🇭🇰 香港1 - hysteria2
-      - 🇭🇰 香港2 - hysteria2
-      - 🇭🇰 香港3 - hysteria2
-      - 🇹🇼 台湾1 - hysteria2
-      - 🇹🇼 台湾2 - hysteria2
-      - 🇹🇼 台湾3 - hysteria2
-      - 🇺🇸 美国1 - hysteria2
-      - 🇺🇸 美国2 - hysteria2
-      - 🇺🇸 美国3 - hysteria2
+      - 距离下次重置剩余：13 天
+      - 套餐到期：2025-09-11
+      - 新加坡-vless
+      - 日本-vless
+      - 一元百G：https://fscloud.vip
+      - 日本aws - 001
+      - 日本aws - 002
+      - 日本aws - 003
+      - 新加坡aws - 001
+      - 新加坡aws - 002
+      - 新加坡aws - 003
+      - 香港001 - hysteria2
+      - 香港002 - hysteria2
+      - 香港003 - hysteria2
+      - 台湾01 - hysteria2
+      - 台湾002 - hysteria2
+      - 台湾003 - hysteria2
+      - 美国001 - hysteria2
+      - 美国002 - hysteria2
+      - 美国003 - hysteria2
       - 剩余流量：326.14 GB350
       - 距离下次重置剩余：19 天350
       - 套餐到期：2024-12-01350
@@ -1075,6 +1082,26 @@ proxy-groups:
       - 美国f1 - hysteria2
       - 美国f2 - hysteria2
       - 美国f3 - hysteria2
+      - 距离下次重置剩余：13 天
+      - 套餐到期：2025-09-11
+      - 新加坡-vless
+      - 日本-vless
+      - 一元百G：https://fscloud.vip
+      - 日本aws - 001
+      - 日本aws - 002
+      - 日本aws - 003
+      - 新加坡aws - 001
+      - 新加坡aws - 002
+      - 新加坡aws - 003
+      - 香港001 - hysteria2
+      - 香港002 - hysteria2
+      - 香港003 - hysteria2
+      - 台湾01 - hysteria2
+      - 台湾002 - hysteria2
+      - 台湾003 - hysteria2
+      - 美国001 - hysteria2
+      - 美国002 - hysteria2
+      - 美国003 - hysteria2
       - 剩余流量：326.14 GB350
       - 距离下次重置剩余：19 天350
       - 套餐到期：2024-12-01350
@@ -1167,6 +1194,26 @@ proxy-groups:
       - 美国f1 - hysteria2
       - 美国f2 - hysteria2
       - 美国f3 - hysteria2
+      - 距离下次重置剩余：13 天
+      - 套餐到期：2025-09-11
+      - 新加坡-vless
+      - 日本-vless
+      - 一元百G：https://fscloud.vip
+      - 日本aws - 001
+      - 日本aws - 002
+      - 日本aws - 003
+      - 新加坡aws - 001
+      - 新加坡aws - 002
+      - 新加坡aws - 003
+      - 香港001 - hysteria2
+      - 香港002 - hysteria2
+      - 香港003 - hysteria2
+      - 台湾01 - hysteria2
+      - 台湾002 - hysteria2
+      - 台湾003 - hysteria2
+      - 美国001 - hysteria2
+      - 美国002 - hysteria2
+      - 美国003 - hysteria2
       - 剩余流量：326.14 GB350
       - 距离下次重置剩余：19 天350
       - 套餐到期：2024-12-01350
@@ -1256,6 +1303,7 @@ rules:
   - DOMAIN-SUFFIX,infojin.cyou,🎯 全球直连
   - DOMAIN-SUFFIX,serv00.com,📲 CF香港
   - DOMAIN-SUFFIX,serv00.net,📲 CF香港
+  - DOMAIN-SUFFIX,567852.xyz,🎯 全球直连
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
