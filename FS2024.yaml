@@ -1303,7 +1303,6 @@ rules:
   - DOMAIN-SUFFIX,infojin.cyou,🎯 全球直连
   - DOMAIN-SUFFIX,serv00.com,📲 CF香港
   - DOMAIN-SUFFIX,serv00.net,📲 CF香港
-  - DOMAIN-SUFFIX,567852.xyz,🎯 全球直连
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-loopback,🎯 全球直连
