@@ -178,9 +178,9 @@ https://mainserver.567852.xyz/ceshi123456/ceshi123456/87
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://live.hkdvb.com/hls/playlist.m3u?token=841221052091830
 
-#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}10.610.6",Jade 翡翠台[直播]
+#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}10.6",Jade 翡翠台[直播]
 https://live.hkdvb.com/hls/live/81.m3u8?token=841221052091830
-#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB}10.610.6",TVB PLUS[直播]
+#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB}10.6",TVB PLUS[直播]
 https://live.hkdvb.com/hls/live/82.m3u8?token=841221052091830
 #EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="{TVB}10.6",News 新聞台[直播]
 https://live.hkdvb.com/hls/live/83.m3u8?token=841221052091830
