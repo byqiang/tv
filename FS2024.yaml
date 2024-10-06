@@ -110,7 +110,6 @@ proxies:
   - { name: 🇮🇳印度孟买2, type: vless, server: 144.24.102.245, port: 443, uuid: ab228da0-a064-4381-8f81-d185b9c50d8a, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: safari, servername: djdownloadin.xn--4gq62f52gopi49k.com }
   - { name: 🇰🇷韩国首尔, type: vless, server: 146.56.161.47, port: 443, uuid: ab228da0-a064-4381-8f81-d185b9c50d8a, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: ios, servername: djdownloadkr.xn--4gq62f52gopi49k.com }
   - { name: 🇰🇷韩国首尔2, type: vless, server: 146.56.43.3, port: 2080, uuid: ab228da0-a064-4381-8f81-d185b9c50d8a, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: safari, servername: djdownloadkr1.xn--4gq62f52gopi49k.com }
-  
     - { name: '剩余流量：70.04 GB', server: 163.123.192.140, port: 54000, ports: 54000-54060, mport: 54000-54060, udp: true, skip-cert-verify: true, sni: www.bing.com, type: hysteria2, password: bdbd440d-bb7e-4cc9-8dc2-d5e0a2d60f50 }
     - { name: '距离下次重置剩余：6 天', server: 163.123.192.140, port: 54000, ports: 54000-54060, mport: 54000-54060, udp: true, skip-cert-verify: true, sni: www.bing.com, type: hysteria2, password: bdbd440d-bb7e-4cc9-8dc2-d5e0a2d60f50 }
     - { name: 套餐到期：2025-01-12, server: 163.123.192.140, port: 54000, ports: 54000-54060, mport: 54000-54060, udp: true, skip-cert-verify: true, sni: www.bing.com, type: hysteria2, password: bdbd440d-bb7e-4cc9-8dc2-d5e0a2d60f50 }
