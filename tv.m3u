@@ -249,16 +249,16 @@ http://xynas.pro:4022/rtp/239.77.0.173:5146$guangdongcmc10+
 http://116.23.139.108:4000/rtp/239.77.0.173:5146$guangdongcmc
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江（1080）
 http://iptv.dcn88.live:6668/rtp/239.77.0.1:5146$guangdongcmc8+
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江
-http://www.recker.cc:4022/rtp/239.77.0.1:5146$guangdongcmc6+
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江荔枝
+https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江
 http://xynas.pro:4022/rtp/239.77.0.1:5146$guangdongcmc10+
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江
 http://116.23.139.108:4000/rtp/239.77.0.1:5146$guangdongcmc
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生(1080)
 http://120.237.241.82:4000/udp/239.77.0.225:5146
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生
-http://www.recker.cc:4022/rtp/239.77.0.225:5146$guangdongcmc6+
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生荔枝
+https://php.17186.eu.org/gdtv/web/gdgg.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生
 http://xynas.pro:4022/rtp/239.77.0.225:5146$guangdongcmc10+
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生
