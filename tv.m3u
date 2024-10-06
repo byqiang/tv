@@ -248,7 +248,7 @@ http://xynas.pro:4022/rtp/239.77.0.173:5146$guangdongcmc10+
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png",广东新闻
 http://116.23.139.108:4000/rtp/239.77.0.173:5146$guangdongcmc
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江（1080）
-http://iptv.dcn88.live:6668/rtp/239.77.0.1:5146$guangdongcmc8+
+http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8%24LR%E2%80%A2IPV6%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江荔枝
 https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江
@@ -260,7 +260,7 @@ http://120.237.241.82:4000/udp/239.77.0.225:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生荔枝
 https://php.17186.eu.org/gdtv/web/gdgg.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生
-http://xynas.pro:4022/rtp/239.77.0.225:5146$guangdongcmc10+
+http://116.28.124.174:8520/rtp/239.77.0.225:5146%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF38%E3%80%8F
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生
 http://116.23.139.108:4000/rtp/239.77.0.225:5146$guangdongcmc
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生IPTV
@@ -269,8 +269,8 @@ http://iptv.dcn88.live:6668/rtp/239.77.0.225:5146$guangdongcmc8+
 http://113.119.195.184:9999/udp/239.77.0.168:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道体育.png",广东体育
 https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https:://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视（1080）
-http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8%24LR%E2%80%A2IPV6%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
+#EXTINF:-1 group-title="广东频道" tvg-logo="https:://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视（1080)
+http://113.119.195.184:9999/rtp/239.77.0.215:5146%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF131%E3%80%8F
 http://120.237.241.82:4000/udp/239.77.0.215:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/lingnanxiqu.jpg",岭南戏曲
 http://120.237.241.82:4000/udp/239.77.0.122:5146
