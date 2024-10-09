@@ -7,6 +7,8 @@
 
 #EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="http://www.mytvsuper.xyz:80/images/Fq85_5uquAsqvhaWKlr0sF2IXmawK_00T1Bv21ti1LT59-vIAw8MbwsojGsFcI4E.png" group-title="香港频道",翡翠台
 https://mainserver.567852.xyz/ceshi123456/ceshi123456/2
+#EXTINF:-1 tvg-id="2" tvg-name="翡翠台" tvg-logo="http://www.mytvsuper.xyz:80/images/Fq85_5uquAsqvhaWKlr0sF2IXmawK_00T1Bv21ti1LT59-vIAw8MbwsojGsFcI4E.png" group-title="香港频道", 翡翠台「SD」
+https://test.ttvb.eu.org/stream/tvb/null/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 #EXTINF:-1 tvg-id="3" tvg-name="IQIYI HD" tvg-logo="http://www.mytvsuper.xyz:80/images/-9N8en6Cosl3zha11N2C5DBQKeEja3WOjgy14GiDVJe3Wp_wIDzgdMPGWYFW9nBl--3FsCc31jdWFP-QU8dzrek1aWDIwsijQP5rVo_mI9c.png" group-title="香港频道",IQIYI HD
 https://mainserver.567852.xyz/ceshi123456/ceshi123456/3
 #EXTINF:-1 tvg-id="4" tvg-name="One" tvg-logo="http://www.mytvsuper.xyz:80/images/QoUu3YC-pzsRg4E1fothcsVQtVxcUbiQYEYlYsoyAvPWiLbnLBgvF5-OwkXhrfVEfJUeaIvEYO6gsiMIsefGqA.png" group-title="香港频道",One
@@ -51,6 +53,8 @@ https://mainserver.567852.xyz/ceshi123456/ceshi123456/23
 https://mainserver.567852.xyz/ceshi123456/ceshi123456/24
 #EXTINF:-1 tvg-id="25" tvg-name="無線新聞台" tvg-logo="http://www.mytvsuper.xyz:80/images/Fq85_5uquAsqvhaWKlr0sF2IXmawK_00T1Bv21ti1LRKi_o3QFiikIS7eVnymZSOHlzd4K7f2QxPvg1FI-Zijw.png" group-title="香港频道",無線新聞台
 https://mainserver.567852.xyz/ceshi123456/ceshi123456/25
+#EXTINF:-1 tvg-id="25" tvg-name="無線新聞台" tvg-logo="http://www.mytvsuper.xyz:80/images/Fq85_5uquAsqvhaWKlr0sF2IXmawK_00T1Bv21ti1LRKi_o3QFiikIS7eVnymZSOHlzd4K7f2QxPvg1FI-Zijw.png" group-title="香港频道",無綫新聞台「SD」
+https://test.ttvb.eu.org/stream/tvb/null-1/master.m3u8?u=yang&p=20f645c703944a0027acf6fad92ec465247842450605c5406b50676ff0dcd5ea
 #EXTINF:-1 tvg-id="26" tvg-name="華語劇台" tvg-logo="http://www.mytvsuper.xyz:80/images/Fq85_5uquAsqvhaWKlr0sF2IXmawK_00T1Bv21ti1LRtUPzvi3kDvFnuqzMVVwZpt9OJvIlC18K-isgyRDqo0w.png" group-title="香港频道",華語劇台
 https://mainserver.567852.xyz/ceshi123456/ceshi123456/26
 #EXTINF:-1 tvg-id="27" tvg-name="鳳凰衛視中文台" tvg-logo="http://www.mytvsuper.xyz:80/images/Fq85_5uquAsqvhaWKlr0sF2IXmawK_00T1Bv21ti1LQRGYciQr7mpGHZaIFeplBJHifgI5OWr69syaHC479hGQ.png" group-title="香港频道",鳳凰衛視中文台
