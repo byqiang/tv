@@ -1,166 +1,25 @@
 proxies:
-  - {"name":"剩余流量：122.78 GBf","type":"vless","server":"vlsgai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
-  - {"name":"距离下次重置剩余：3 天f","type":"vless","server":"vlsg.interld-id":"792147b8"},"client-fingerprint":"firefox"}
-  - {"name":"套餐到期：2025-04-15f","type":"vless","s9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
-  - {"name":"新加坡-vlessf","type":"vless",KYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
-  - {"name":"日本-vlessf","type":"vless{"name":"一元百G：https://fscloud.vipf","type":"hysteria2","soud.com","skip-cert-verify":true}
-  - {"name":"日本aws - f1","type":"hysteria2","server":90spcloud.com","skip-cert-verify":true}
-  - {"name":"日本aws - f2","type":"hysteria2","server".com","skip-cert-verify":true}
-  - {"name":"日本aws - f3","type":"hysteria2",.com","skip-cert-verify":true}
-  - {"name":"新加坡aws - f1","type":"hysteria2","   ,"skip-cert-verify":true}
-  - {"name":"新加坡aws - f2","type":"hysteria2","   ,"skip-cert-verify":true}
-  - {"name":"新加坡aws - f3","type":"hysteria2","   ,"skip-cert-verify":true}
-  - {"name":"香港f1 - hysteria2","type":"   ","skip-cert-verify":true}
-  - {"name":"香港f2 - hysteria2","type":"   ","skip-cert-verify":true}
-  - {"name":"香港f3 - hysteria2","type":"   ","skip-cert-verify":true}
-  - {"name":"台湾f1 - hysteria2","type":"   7890spcloud.com","skip-cert-verify":true}
-  - {"name":"台湾f2 - hysteria2","type":"   7890spcloud.com","skip-cert-verify":true}
-  - {"name":"台湾f3 - hysteria2","type":"   7890spcloud.com","skip-cert-verify":true}
-  - {"name":"美国f1 - hysteria2","type":"   234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"美国f2 - hysteria2","type":"h   90spcloud.com","skip-cert-verify":true}
-  - {"name":"美国f3 - hysteria2","type":"hyste 1234567890spcloud.com","skip-cert-verify":true}
-  - { name: '剩余流量：96.56 GB', type: vless, server: vlsg. 9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
-  - { name: '距离下次重置剩余：13 天', type: vless, H8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
-  - { name: 套餐到期：2025-09-11, type: vless, se e6shKoKMdek5ai8, short-id: 792147b8 } }
-  - { name: 新加坡-vless, type: vless, se sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
-  - { name: 日本-vless, ty HeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8, short-id: 792147b8 } }
-  - { name: '一元百G：https://fscloud.vip', server: j -7aef5af376d6 }
-  - { name: '日本aws - 001', server: jiedianfsc. f376d6 }
-  - { name: '日本aws - 002', serv 9e51-7aef5af376d6 }
-  - { name: '日本aws - 003',  5af376d6 }
-  - { name: '新加坡aws - 001', server 81-9e51-7aef5af376d6 }
-  - { name: '新加坡aws - 002',  -9e51-7aef5af376d6 }
-  - { name: '新加坡aws - 003', server: jied 8-4e81-9e51-7aef5af376d6 }
-  - { name: '香港001 - hysteria2', server: ji9e51-7aef5af376d6 }
-  - { name: '香港002 - hysteria2', server: ji9e51-7aef5af376d6 }
-  - { name: '香港003 - hysteria2', server: jied81-9e51-7aef5af376d6 }
-  - { name: '台湾01 - hysteria2', server: jied51-7aef5af376d6 }
-  - { name: '台湾002 - hysteria2', server: jie51-7aef5af376d6 }
-  - { name: '台湾003 - hysteria2', server: jied-7aef5af376d6 }
-  - { name: '美国001 - hysteria2', server: jiedi7aef5af376d6 }
-  - { name: '美国002 - hysteria2', server: jie-7aef5af376d6 }
-  - { name: '美国003 - hysteria2', server: jiedia51-7aef5af376d6 }
-  - {"name":"剩余流量：326.14 GB350","type":"vless","server":"vlsg.interze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
-  - {"name":"距离下次重置剩余：19 天350","type":"vless","server":"vlsg.interld1234KMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
-  - {"name":"套餐到期：2024-12-01350","type":"vlesbFuAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
-  - {"name":"新加坡-vless350","type":"vleAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
-  - {"name":"日本-vless350","type":"vless","6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
-  - {"name":"一元百G：https://fscloud.vip350","type":"hystecom","skip-cert-verify":true}
-  - {"name":"日本aws - 350001","type":"hysteria2","server":"jiedi234224.1234567890spcloud.com","skip-cert-verify":true}
-  - {"name":"日本aws - 350002","type":"hysteria2","servcloud.com","skip-cert-verify":true}
-  - {"name":"日本aws - 350003","type":"hysteria2","serloud.com","skip-cert-verify":true}
-  - {"name":"新加坡aws - 350001","type":"hysteria2","sercloud.com","skip-cert-verify":true}
-  - {"name":"新加坡aws - 350002","type":"hysteria2","sespcloud.com","skip-cert-verify":true}
-  - {"name":"新加坡aws - 350003","type":"hysteria2","s67890spcloud.com","skip-cert-verify":true}
-  - {"name":"香港350001 - hysteria2","type":"hysteria2","serv0spcloud.com","skip-cert-verify":true}
-  - {"name":"香港350002 - hysteria2","type":"hysteria2","ser0spcloud.com","skip-cert-verify":true}
-  - {"name":"香港350003 - hysteria2","type":"hysteria2","se67890spcloud.com","skip-cert-verify":true}
-  - {"name":"台湾35001 - hysteria2","type":"hysteria2","server":"jie890spcloud.com","skip-cert-verify":true}
-  - {"name":"台湾350002 - hysteria2","type":"hysteria2","server":"jiedianf0spcloud.com","skip-cert-verify":true}
-  - {"name":"台湾350003 - hysteria2","type":"hysteria2","server":"jiedud.com","skip-cert-verify":true}
-  - {"name":"美国350001 - hysteria2","type":"hysteria2","server":"jiedioud.com","skip-cert-verify":true}
-  - {"name":"美国350002 - hysteria2","type":"hysteria2","server":"jied90spcloud.com","skip-cert-verify":true}
-  - {"name":"美国350003 - hysteria2","type":"hysteria2","server":"jiedpcloud.com","skip-cert-verify":true}
-  - { name: '剩余流量：737.7 GB', server: 16185b9c50d8a }
-  - { name: '距离下次重置剩余：18 天', server: 163c50d8a }
-  - { name: 套餐到期：2025-10-24, server: 163.5b9c50d8a }
-  - { name: 🇺🇸美国凤凰城_gpt, server: 163.123.150d8a }
-  - { name: 🇺🇸美国凤凰城1号, server: 129.153.70d8a }
-  - { name: 🇺🇸美国凤凰城2号, server: 129.153.8050d8a }
-  - { name: 🇺🇸美国凤凰城3号, server: 15850d8a }
-  - { name: 🇺🇸美国凤凰城4号, server: 129.d8a }
-  - { name: 🇯🇵日本, server: 131.186.42d8a }
-  - { name: 🇸🇬新加坡hy, server: 140.2450d8a }
-  - { name: 🇫🇷法国hy, server: 62.210.0d8a }
-  - { name: 🇸🇪瑞典斯德哥尔摩-1.5倍率, server: 129.1-d185b9c50d8a }
-  - { name: 🇰🇷韩国首尔-3倍率, server: 193.123.22d8a }
-  - { name: 🇰🇷韩国首尔2-3倍率, server: 146.56.150d8a }
-  - { name: 🇩🇪德国法兰克福, server: 138.2.179.192b9c50d8a }
-  - { name: 🇩🇪德国法兰克福2, server: 152.70.1785b9c50d8a }
-  - { name: 🇧🇷巴西圣保罗-1.5倍率, server: 19c50d8a }
-  - { name: 🇺🇸美国芝加哥, server: 149.1350d8a }
-  - { name: 🇦🇪迪拜-1.2倍率, server: 139.180d8a }
-  - { name: 🇦🇪迪拜2-1.5倍率, server: 139.180d8a }
-  - { name: 🇰🇷韩国春川-1.5倍率, server: 14650d8a }
-  - { name: 🇰🇷韩国春川2-1.5倍率, server: 152d8a }
-  - { name: 🇦🇺澳大利亚悉尼-1.5倍率, server: 15d8a }
-  - { name: 🇦🇺澳大利亚墨尔本-1.5倍率, server: 152.6d8a }
-  - { name: 🇮🇳印度孟买-1.5倍率, server: 144.240d8a }
-  - { name: 🇮🇳印度海得拉巴-1.5倍率, server: 144.248a }
-  - { name: 🇬🇧英国伦敦-2倍率, server: 132.14550d8a }
-  - { name: 🇬🇧英国伦敦2-1.8倍率, server: 132.14550d8a }
-  - { name: 🇿🇦非洲约翰内斯堡-3.5倍率, server: 129.1550d8a }
-  - { name: 🇨🇦加拿大多伦多-1.5倍率, server: 40.233c50d8a }
-  - { name: 🇺🇸美国凤凰城-0.1倍, type: vless, server: 15k.com }
-  - { name: 🇩🇪德国-1倍, type: vless, server: 130.6pi49k.com }
-  - { name: 🇺🇸美国1号-0.1倍, type: vless, server: 77.75.1.sbs } } }
-  - { name: 🇺🇸美国2号-0.1倍, type: vless, sejjc.sbs } } }
-  - { name: 🇺🇸美国3号-0.1倍, type: vless, sejjc.sbs } } }
-  - { name: 🇺🇸美国4号-0.1倍, type: vless, sesbs } } }
-  - { name: 🇯🇵日本-0.1—流媒体, type: vless, ssbs } } }
-  - { name: 🇫🇷法国, type: vless, servs } } }
-  - { name: 🇫🇷法国2, type: vless, sebs } } }
-  - { name: 🇩🇪德国, type: vless, s1.djjc.sbs } } }
-  - { name: 🇬🇧英国伦敦-1倍, type: vl49k.com }
-  - { name: 🇹🇼台湾—TK专线, type: vless, servopi49k.com }
-  - { name: 🇭🇰香港hkt-2倍, type: vless, spi49k.com }
-  - { name: 🇭🇰香港hkt2-1.5倍, type: vless, sepi49k.com }
-  - { name: 🇮🇳印度孟买, type: vless, server: 14opi49k.com }
-  - { name: 🇮🇳印度孟买2, type: vless, sergopi49k.com }
-  - { name: 🇰🇷韩国首尔, type: vless, serv2gopi49k.com }
-  - { name: 🇰🇷韩国首尔2, type: vless, sek.com }
-  - { name: '剩余流量：70.04 GBb', ser60f50 }
-  - { name: '距离下次重置剩余：6 天b', servf50 }
-  - { name: 套餐到期：2025-01-12b, serv50 }
-  - { name: 🇺🇸美国凤凰城专线1b, server: 1650 }
-  - { name: 🇺🇸美国凤凰城专线2b, server: 16350 }
-  - { name: 🇦🇺澳大利亚悉尼b, server: 192.9f50 }
-  - { name: 🇦🇺澳大利亚悉尼2b, server: 192.50 }
-  - { name: 🇳🇱荷兰专线b, server: 204.100 }
-  - { name: 🇯🇵日本专线b, server: 138.2f50 }
-  - { name: 🇯🇵日本专线2b, server: 141.147.f50 }
-  - { name: 🇯🇵日本专线3b, server: 138.2.3f50 }
-  - { name: 🇯🇵日本专线4b, server: 138.350 }
-  - { name: 🇸🇬新加坡专线b, server: 168.10f50 }
-  - { name: 🇸🇬新加坡专线2b, server: 168f50 }
-  - { name: 🇺🇸美国洛杉矶专线b, server: 108.1f50 }
-  - { name: 🇺🇸美国洛杉矶专线2b, server: 108.1f50 }
-  - { name: 🇺🇸美国洛杉矶专线3b, server: 108.0f50 }
-  - { name: 🇺🇸美国洛杉矶专线4b, server: 1080f50 }
-  - { name: 🇰🇷韩国三网专线b, server: 132.250 }
-  - { name: 🇰🇷韩国三网专线2b, server: 152.70f50 }
-  - { name: 🇰🇷韩国三网专线3b, server: 193.1250 }
-  - { name: 🇰🇷韩国专线b, server: 150.230.2f50 }
-  - { name: 🇰🇷韩国专线2b, server: 158.17960f50 }
-  - { name: 🇧🇷巴西专线b, server: 129.150 }
-  - { name: 🇺🇸美国高速01b, type: vless, se.com }
-  - { name: 🇺🇸美国高速02b, type: vless, serk.com }
-  - { name: 🇰🇷韩国首尔b, type: vless, servi29k.com }
-  - { name: 🇰🇷韩国首尔2b, type: vless, ser9k.com }
-  - { name: '🇳🇱荷兰Eygelshoven | BT下载-0.1倍率b', type: vless, s9k.com }
-  - { name: 🇭🇰香港1号b, type: vless, server: 3bd9k.com }
-  - { name: 🇭🇰香港2号b, type: vless, server: pi29k.com }
-  - { name: 🇺🇸美国1号-0.1倍b, type: vless, s.yfjc.sbs } } }
-  - { name: 🇺🇸美国2号-0.1倍b, type: vless, s.yfjc.sbs } } }
-  - { name: '🇳🇱荷兰Eygelshoven | BT下载-0.1倍b', type: vless, se.sbs } } }
-  - { name: '🇳🇱荷兰 | BT下载-0.1倍b', type: vless, server: 18sbs } } }
-  - { name: 🇹🇼台湾b, type: vless, server: 3bd9.5k.com }
-  - { name: 🇫🇷法国巴黎b, type: vless, server: 89.168.39k.com }
-  - { name: 🇫🇷法国巴黎2b, type: vless, server: 89.1629k.com }
-  - { name: 🇫🇷法国马赛b, type: vless, server: 149k.com }
-  - { name: 🇳🇱荷兰阿姆斯特丹b, type: vless, seri29k.com }
-  - { name: 🇦🇪阿联酋迪拜b, type: vless, sei29k.com }
-  - { name: 🇺🇸美国圣何塞b, type: vless, ser29k.com }
-  - { name: 🇺🇸美国凤凰城b, type: vless, serverk.com }
-  - { name: 🇩🇪德国法兰克福b, type: vless, server: 1.com }
-  - { name: 🇩🇪德国法兰克福2b, type: vless, server: 1k.com }
-  - { name: 🇮🇳印度孟买b, type: vless, server: 1299k.com }
-  - { name: 🇬🇧英国伦敦b, type: vless, server: 14.com }
-  - { name: 🇬🇧英国伦敦2b, type: vless, server: 14k.com }
-  - { name: 🇮🇳印度海得拉巴b, type: vless, server: 1229k.com }
-  - { name: 🇸🇬亚马逊新加坡-临时b, type: vless, server: 529k.com }
-  - { name: 🇯🇵日本b, type: vless, server: 162..sbs } } }
-  - { name: 🇯🇵日本2b, type: vless, server: 1jc.sbs } } }
+  - {"name":"剩余流量：122.78 GBf","type":"vless","server":"vlsg.interld123456789.com","port":56701,"udp":true,"uuid":"7345e619-2745-4234-b2ef-4b76bb90b8be","tls":true,"servername":"addons.mozilla.org","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
+  - {"name":"距离下次重置剩余：3 天f","type":"vless","server":"vlsg.interld123456789.com","port":56701,"udp":true,"uuid":"7345e619-2745-4234-b2ef-4b76bb90b8be","tls":true,"servername":"addons.mozilla.org","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
+  - {"name":"套餐到期：2025-04-15f","type":"vless","server":"vlsg.interld123456789.com","port":56701,"udp":true,"uuid":"7345e619-2745-4234-b2ef-4b76bb90b8be","tls":true,"servername":"addons.mozilla.org","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
+  - {"name":"新加坡-vlessf","type":"vless","server":"vlsg.interld123456789.com","port":56701,"udp":true,"uuid":"7345e619-2745-4234-b2ef-4b76bb90b8be","tls":true,"servername":"addons.mozilla.org","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
+  - {"name":"日本-vlessf","type":"vless","server":"vljp.interld123456789.com","port":56702,"udp":true,"uuid":"7345e619-2745-4234-b2ef-4b76bb90b8be","tls":true,"servername":"addons.mozilla.org","flow":"xtls-rprx-vision","network":"tcp","reality-opts":{"public-key":"sW8BfHeovVzmbFuAnr9nH8oJaKYze6shKoKMdek5ai8","short-id":"792147b8"},"client-fingerprint":"firefox"}
+  - {"name":"一元百G：https://fscloud.vipf","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":24000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"日本aws - f1","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":24000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"日本aws - f2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":24000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"日本aws - f3","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":24000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"新加坡aws - f1","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":26000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"新加坡aws - f2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":26000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"新加坡aws - f3","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":26000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"234224.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"香港f1 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":20000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"香港f2 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":20000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"香港f3 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":20000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"台湾f1 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":22000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"台湾f2 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":22000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"台湾f3 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":22000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"美国f1 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":28000,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"美国f2 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":28001,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
+  - {"name":"美国f3 - hysteria2","type":"hysteria2","server":"jiedianfsc.fsc.interld123456789.com","port":28002,"password":"7345e619-2745-4234-b2ef-4b76bb90b8be","sni":"cesuuu.1234567890spcloud.com","skip-cert-verify":true}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
