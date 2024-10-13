@@ -108,14 +108,6 @@ http://120.237.241.82:4000/udp/239.77.0.225:5146
 https://php.17186.eu.org/gdtv/web/gdgg.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生ID+
 http://116.28.124.174:8520/rtp/239.77.0.225:5146%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF38%E3%80%8F
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生1
-http://1805842a.123nat.com:66/agent/dltest.php?id=1012&token=648ebe4e0c2390397c46586c63856e3d
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生2
-http://1805842a.123nat.com:66/agent/dltest.php?id=1029&token=648ebe4e0c2390397c46586c63856e3d
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道体育.png",广东体育1
-http://1805842a.123nat.com:66/agent/dltest.php?id=1033&token=648ebe4e0c2390397c46586c63856e3d
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道体育.png",广东体育2
-http://1805842a.123nat.com:66/agent/dltest.php?id=1017&token=648ebe4e0c2390397c46586c63856e3d
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道体育.png",广东体育ID+
 http://113.67.164.10:8888/udp/239.77.0.6:5146%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF52%E3%80%8F
 http://113.119.195.184:9999/udp/239.77.0.168:5146
