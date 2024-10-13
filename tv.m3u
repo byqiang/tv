@@ -7,8 +7,6 @@
 
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}10.6",华丽翡翠台
 https://tvlive.serv00.net/Smartv.php?id=Tvbjade
-#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB}10.6",TVB PLUS1
-http://cdn.1678520.xyz/tvb/?id=tvbp
 #EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://live.hkdvb.com/static/logos/78.png" group-title="{TVB}10.6",HOY TV
 http://cdn3.1678520.xyz/live/?id=hoy
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkdvb.com/static/logos/99.png" group-title="{TVB}10.6",ViuTV
