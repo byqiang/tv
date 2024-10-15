@@ -87,7 +87,7 @@ https://live.hkdvb.com/hls/live/36.m3u8?token=841221052091830
 
 https://epg.pw/stream/3cd84be1fb3623f1c3ba7d3d26e3d607331255d6559bd3e6ded774a1ff7c2b89.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png",广东新闻ID
-http://116.28.124.174:8520/udp/239.77.0.173:5146
+http://113.119.195.184:9999/udp/239.77.0.173:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png",广东新闻荔枝
 https://php.17186.eu.org/gdtv/web/xwpd.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江IPV6
@@ -102,10 +102,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 http://120.237.241.82:4000/udp/239.77.0.225:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生荔枝
 https://php.17186.eu.org/gdtv/web/gdgg.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生ID+
-http://116.28.124.174:8520/rtp/239.77.0.225:5146%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF38%E3%80%8F
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道体育.png",广东体育ID+
-http://113.67.164.10:8888/udp/239.77.0.6:5146%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF52%E3%80%8F
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道体育.png",广东体育ID
 http://113.119.195.184:9999/udp/239.77.0.168:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道体育.png",广东体育TVOF
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
