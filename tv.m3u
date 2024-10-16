@@ -84,7 +84,28 @@ https://live.hkdvb.com/hls/live/35.m3u8?token=841221052091830
 https://live.hkdvb.com/hls/live/36.m3u8?token=841221052091830
 
 
-
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东卫视I
+http://php.iptviptv.site/iptv.php?id=gdws651
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东珠江I
+http://php.iptviptv.site/iptv.php?id=gdzjzj
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",大湾区卫视I
+http://php.iptviptv.site/iptv.php?id=dawanqu678
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广州综合I
+http://php.iptviptv.site/iptv.php?id=gzzhhzzf
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东新闻I
+http://php.iptviptv.site/iptv.php?id=gdxwgt
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东民生I
+http://php.iptviptv.site/iptv.php?id=gdmswt
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东体育I
+http://php.iptviptv.site/iptv.php?id=gdtyre
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东经济科教I
+http://php.iptviptv.site/iptv.php?id=gdkejiao
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东影视I
+http://php.iptviptv.site/iptv.php?id=gdyingshi
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",潮州综合I
+http://php.iptviptv.site/iptv.php?id=gdczzh
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东导视(G导视)I
+http://php.iptviptv.site/iptv.php?id=gdds12
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png",广东新闻荔枝
 https://php.17186.eu.org/gdtv/web/xwpd.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江IPV6
