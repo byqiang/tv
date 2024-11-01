@@ -498,6 +498,58 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 #EXTINF:-1 tvg-name="鹤岗新闻综合" tvg-logo="https://epg.iill.top/logo/鹤岗新闻.png" group-title="•地区「IPV6」",「黑龙江」鹤岗新闻综合「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「WTT」17:00 马斯喀特常规挑战赛：男女单打1/4决赛、男女单双打半决赛、混双决赛 周冠达 周雨
+https://tv.iill.top/Migu/1
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「WTT」17:00 马斯喀特常规挑战赛：男女单打1/4决赛、男女单双打半决赛、混双决赛 1号桌
+https://tv.iill.top/Migu/2
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「WTT」17:00 马斯喀特常规挑战赛：男女单打1/4决赛、男女单双打半决赛、混双决赛 2号桌
+https://tv.iill.top/Migu/3
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「KPL」17:30 上海EDG.M vs 北京WB 上海EDG.M vs 北京WB 官方解说
+https://tv.iill.top/Migu/4
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」18:30 广东vs山西赛前训练 广东队
+https://tv.iill.top/Migu/5
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」18:30 广东vs山西赛前训练 山西队
+https://tv.iill.top/Migu/6
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 广东东阳光 vs 山西汾酒 庄宁宇 陈正昊 张兆旭
+https://tv.iill.top/Migu/7
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 广东东阳光 vs 山西汾酒 广东主队
+https://tv.iill.top/Migu/8
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 广东东阳光 vs 山西汾酒 石楷文
+https://tv.iill.top/Migu/9
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 广东东阳光 vs 山西汾酒 清流播出2
+https://tv.iill.top/Migu/10
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 四川丰谷酒业 vs 浙江方兴渡 张浩岳
+https://tv.iill.top/Migu/11
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 四川丰谷酒业 vs 浙江方兴渡 清流播出5
+https://tv.iill.top/Migu/12
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 江苏肯帝亚 vs 北京北汽 孔德昕
+https://tv.iill.top/Migu/13
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 江苏肯帝亚 vs 北京北汽 清流播出3
+https://tv.iill.top/Migu/14
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 天津先行者 vs 新疆伊力特 徐秦威
+https://tv.iill.top/Migu/15
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 天津先行者 vs 新疆伊力特 新疆主队
+https://tv.iill.top/Migu/16
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 天津先行者 vs 新疆伊力特 天津主队
+https://tv.iill.top/Migu/17
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 天津先行者 vs 新疆伊力特 清流播出6
+https://tv.iill.top/Migu/18
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 九台农商银行 vs 广州朗肽海本 季孟年
+https://tv.iill.top/Migu/19
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:00 常规赛第9轮 九台农商银行 vs 广州朗肽海本 清流播出4
+https://tv.iill.top/Migu/20
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:30 常规赛第9轮 山东高速 vs 北京控股 吕程 周鹏 丁伟
+https://tv.iill.top/Migu/21
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:30 常规赛第9轮 山东高速 vs 北京控股 山东主队
+https://tv.iill.top/Migu/22
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:30 常规赛第9轮 山东高速 vs 北京控股 北控主队
+https://tv.iill.top/Migu/23
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」19:30 常规赛第9轮 山东高速 vs 北京控股 清流播出1
+https://tv.iill.top/Migu/24
+
+
 #EXTINF:-1 tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="•限制「IPV6」",4K 影视「IPV6」
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://epg.iill.top/logo/NewTV哒啵电竞.png" group-title="•限制「IPV6」",NewTV 哒啵电竞「IPV6」
