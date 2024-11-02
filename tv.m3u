@@ -501,13 +501,13 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」",「意甲」01:20 联赛 热那亚 vs 佛罗伦萨 刘腾
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」
 https://tv.iill.top/FB/1
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」",「意甲」03:35 联赛 罗马 vs 都灵 吴桐
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」
 https://tv.iill.top/FB/2
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」",「意甲」03:35 联赛 科莫 vs 拉齐奥 张昊泽
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」
 https://tv.iill.top/FB/3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」",「NBA」07:55 常规赛 灰熊 vs 雄鹿 孙博 季孟年
+#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」
 https://tv.iill.top/NBA/1
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/NBA.png" group-title="•咪咕「NBA」",「NBA」08:15 常规赛 独行侠 vs 火箭 连睿 周鹏 秋童
 https://tv.iill.top/NBA/2
