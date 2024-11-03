@@ -618,7 +618,7 @@ https://tv.iill.top/FB/5
 https://tv.iill.top/FB/6
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」",「法甲」
 https://tv.iill.top/FB/7
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」",「中甲」
+#EXTINF:-1 tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.iill.top/logo/足球.png" http-user-agent="okhttp" group-title="•咪咕「足球」",「德甲」「限UA」
 https://tv.iill.top/FB/8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」",「中甲」
 https://tv.iill.top/FB/9
