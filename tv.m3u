@@ -618,7 +618,7 @@ https://tv.iill.top/FB/5
 https://tv.iill.top/FB/6
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」",「法甲」
 https://tv.iill.top/FB/7
-#EXTINF:-1 tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.iill.top/logo/足球.png" http-user-agent="okhttp" group-title="•咪咕「足球」",「德甲」「限UA」
+#EXTINF:-1 tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.iill.top/logo/足球.png" http-user-agent="okhttp" group-title="•咪咕「足球」",「德甲」「限
 https://tv.iill.top/FB/8
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/足球.png" group-title="•咪咕「足球」",「中甲」
 https://tv.iill.top/FB/9
@@ -684,19 +684,19 @@ https://tv.iill.top/Migu/1
 https://tv.iill.top/Migu/2
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「咪咕」
 https://tv.iill.top/Migu/3
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」
+#EXTINF:-1 tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.iill.top/logo/足球.png" http-user-agent="okhttp" group-title="•咪咕「足球」",「德甲」「限UA」
 https://tv.iill.top/Migu/4
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」
+#EXTINF:-1 tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.iill.top/logo/足球.png" http-user-agent="okhttp" group-title="•咪咕「足球」",「德甲」「限UA」
 https://tv.iill.top/Migu/5
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」
+#EXTINF:-1 tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.iill.top/logo/足球.png" http-user-agent="okhttp" group-title="•咪咕「足球」",「德甲」「限UA」
 https://tv.iill.top/Migu/6
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」
+#EXTINF:-1 tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.iill.top/logo/足球.png" http-user-agent="okhttp" group-title="•咪咕「足球」",「德甲」「限UA」
 https://tv.iill.top/Migu/7
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」
+#EXTINF:-1 tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.iill.top/logo/足球.png" http-user-agent="okhttp" group-title="•咪咕「足球」",「德甲」「限UA」
 https://tv.iill.top/Migu/8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」
+#EXTINF:-1 tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.iill.top/logo/足球.png" http-user-agent="okhttp" group-title="•咪咕「足球」",「德甲」「限UA」
 https://tv.iill.top/Migu/9
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」
+#EXTINF:-1 tvg-id="足球" tvg-name="足球" tvg-logo="https://epg.iill.top/logo/足球.png" http-user-agent="okhttp" group-title="•咪咕「足球」",「德甲」「限UA」
 https://tv.iill.top/Migu/10
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「体育」",「CBA」
 https://tv.iill.top/Migu/11
