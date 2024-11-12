@@ -188,8 +188,6 @@ https://lb-mvtv-live.v2h-cdn.com/redirect/xinghe_1/xinghe_1.stream?type=m3u8
 
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}10.31",华丽翡翠台
 https://tvlive.serv00.net/Smartv.php?id=Tvbjade
-#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}10.31",Jade翡翠台(字幕)
-http://cdn2.1689.us.kg/live/?id=gdfct
 #EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}10.31",翡翠台北美版(TVBJ1)
 https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 #EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB}10.31",*TVB plus
@@ -260,28 +258,7 @@ https://live.hkdvb.com/hls/live/35.m3u8?token=841221052049728&edge=live.tvfree.s
 
 
 
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东卫视I
-http://php.iptviptv.site/iptv.php?id=gdws651
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东珠江I
-http://php.iptviptv.site/iptv.php?id=gdzjzj
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",大湾区卫视I
-http://php.iptviptv.site/iptv.php?id=dawanqu678
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广州综合I
-http://php.iptviptv.site/iptv.php?id=gzzhhzzf
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东新闻I
-http://php.iptviptv.site/iptv.php?id=gdxwgt
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东民生I
-http://php.iptviptv.site/iptv.php?id=gdmswt
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东体育I
-http://php.iptviptv.site/iptv.php?id=gdtyre
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东经济科教I
-http://php.iptviptv.site/iptv.php?id=gdkejiao
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东影视I
-http://php.iptviptv.site/iptv.php?id=gdyingshi
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",岭南戏曲I
-http://php.iptviptv.site/iptv.php?id=gdczzh
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道.png",广东导视(G导视)I
-http://php.iptviptv.site/iptv.php?id=gdds12
+
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png",广东新闻荔枝
 https://php.17186.eu.org/gdtv/web/xwpd.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江IPV6
