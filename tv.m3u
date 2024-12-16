@@ -4,67 +4,6 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 
-#EXTM3U url-tvg="https://live.hkdvb.com/epg/full.xml"
-#EXT-X-APP APTV
-#EXT-X-APTV-TYPE remote
-#EXT-X-SUB-URL https://edge2.tvfree.sbs/hls/playlist.m3u?token=841221052089160
-
-#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="TVB2",Jade 翡翠台[直播]
-https://live.hkdvb.com/hls/live/81.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="TVB2",TVB PLUS[直播]
-https://live.hkdvb.com/hls/live/82.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="TVB2",News 新聞台[直播]
-https://live.hkdvb.com/hls/live/83.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="TVB2",Pearl 明珠台[直播]
-https://live.hkdvb.com/hls/live/84.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="TVB2",鳳凰香港台[直播]
-https://live.hkdvb.com/hls/live/85.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="800" tvg-name="翡翠4K" tvg-logo="https://live.hkdvb.com/static/logos/800.png" group-title="TVB2",翡翠4K[直播]
-https://live.hkdvb.com/hls/live/800.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="801" tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="TVB2",Popc[直播]
-https://live.hkdvb.com/hls/live/801.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="802" tvg-name="美亞" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="TVB2",美亞[直播]
-https://live.hkdvb.com/hls/live/802.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="803" tvg-name="華語劇台" tvg-logo="https://live.hkdvb.com/static/logos/803.png" group-title="TVB2",華語劇台[直播]
-https://live.hkdvb.com/hls/live/803.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="804" tvg-name="粵語片台" tvg-logo="https://live.hkdvb.com/static/logos/804.png" group-title="TVB2",粵語片台[直播]
-https://live.hkdvb.com/hls/live/804.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="TVB2",HOY TV[直播]
-https://live.hkdvb.com/hls/live/77.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://live.hkdvb.com/static/logos/78.png" group-title="TVB2",HOY TV 資訊台[直播]
-https://live.hkdvb.com/hls/live/78.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="76" tvg-name="HOY 國際財經台" tvg-logo="https://live.hkdvb.com/static/logos/76.png" group-title="TVB2",HOY 國際財經台[直播]
-https://live.hkdvb.com/hls/live/76.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkdvb.com/static/logos/99.png" group-title="TVB2",ViuTV[直播]
-https://live.hkdvb.com/hls/live/99.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://live.hkdvb.com/static/logos/96.png" group-title="TVB2",ViuTV Six[直播]
-https://live.hkdvb.com/hls/live/96.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="133" tvg-name="Now Popcorn 爆谷台" tvg-logo="https://live.hkdvb.com/static/logos/133.png" group-title="TVB2",Now Popcorn 爆谷台[直播]
-https://live.hkdvb.com/hls/live/133.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="TVB2",Now Superstars 星影台[直播]
-https://live.hkdvb.com/hls/live/138.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="332" tvg-name="Now NEWS 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="TVB2",Now NEWS 新聞台[直播]
-https://live.hkdvb.com/hls/live/332.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="621" tvg-name="Now Sports 英超1台" tvg-logo="https://live.hkdvb.com/static/logos/621.jpg" group-title="TVB2",Now Sports 英超1台[直播]
-https://live.hkdvb.com/hls/live/621.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://live.hkdvb.com/static/logos/630.png" group-title="TVB2",Now Sports Prime[直播]
-https://live.hkdvb.com/hls/live/630.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="632" tvg-name="Now Sports 632" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="TVB2",Now Sports 632[直播]
-https://live.hkdvb.com/hls/live/632.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://live.hkdvb.com/static/logos/641.jpg" group-title="TVB2",Now Sports 641[直播]
-https://live.hkdvb.com/hls/live/641.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="642" tvg-name="Now Sports 642" tvg-logo="https://live.hkdvb.com/static/logos/642.jpg" group-title="TVB2",Now Sports 642[直播]
-https://live.hkdvb.com/hls/live/642.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://live.hkdvb.com/static/logos/31.png" group-title="TVB2",港台電視 31[直播]
-https://live.hkdvb.com/hls/live/31.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://live.hkdvb.com/static/logos/32.png" group-title="TVB2",港台電視 32[直播]
-https://live.hkdvb.com/hls/live/32.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="33" tvg-name="CCTV-1  港澳版" tvg-logo="https://live.hkdvb.com/static/logos/33.png" group-title="TVB2",CCTV-1  港澳版[直播]
-https://live.hkdvb.com/hls/live/33.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="34" tvg-name="CGTN Documentary" tvg-logo="https://live.hkdvb.com/static/logos/34.png" group-title="TVB2",CGTN Documentary[直播]
-https://live.hkdvb.com/hls/live/34.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
-#EXTINF:-1 tvg-id="35" tvg-name="CGTN English" tvg-logo="https://live.hkdvb.com/static/logos/35.png" group-title="TVB2",CGTN English[直播]
-https://live.hkdvb.com/hls/live/35.m3u8?token=841221052089160&edge=edge2.tvfree.sbs
 
 
 #EXTINF:-1 group-title="TVB" tvg-logo="https://live.fanmingming.com/tv/.png",myTV SUPER 18台
@@ -171,90 +110,93 @@ http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
 http://php.jdshipin.com:8880/xsj.php?id=now-sports-619
 
 
-#EXTINF:-1 group-title="{TVB}12.03" tvg-logo="https://live.fanmingming.com/tv/.png",翡翠台mvhub
+#EXTINF:-1 group-title="TVB" tvg-logo="https://live.fanmingming.com/tv/.png",翡翠台mvhub
 https://lb-mvtv-live.v2h-cdn.com/redirect/jade2/jade.stream?type=m3u8
-#EXTINF:-1 group-title="{TVB}12.03" tvg-logo="https://live.fanmingming.com/tv/.png",武侠mv
+#EXTINF:-1 group-title="TVB" tvg-logo="https://live.fanmingming.com/tv/.png",武侠mv
 https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
-#EXTINF:-1 group-title="{TVB}12.03" tvg-logo="https://live.fanmingming.com/tv/.png",娱乐新闻mv
+#EXTINF:-1 group-title="TVB" tvg-logo="https://live.fanmingming.com/tv/.png",娱乐新闻mv
 https://lb-mvtv-live.v2h-cdn.com/redirect/enew/enew.stream?type=m3u8
-#EXTINF:-1 group-title="{TVB}12.03" tvg-logo="https://live.fanmingming.com/tv/.png",生活台mv
+#EXTINF:-1 group-title="TVB" tvg-logo="https://live.fanmingming.com/tv/.png",生活台mv
 https://lb-mvtv-live.v2h-cdn.com/redirect/finance2/finance2.stream?type=m3u8
-#EXTINF:-1 group-title="{TVB}12.03" tvg-logo="https://live.fanmingming.com/tv/.png",无线新闻mv
+#EXTINF:-1 group-title="TVB" tvg-logo="https://live.fanmingming.com/tv/.png",无线新闻mv
 https://lb-mvtv-live.v2h-cdn.com/redirect/news/news.stream?type=m3u8
-#EXTINF:-1 group-title="{TVB}12.03" tvg-logo="https://live.fanmingming.com/tv/.png",星河台mv
+#EXTINF:-1 group-title="TVB" tvg-logo="https://live.fanmingming.com/tv/.png",星河台mv
 https://lb-mvtv-live.v2h-cdn.com/redirect/xinghe_1/xinghe_1.stream?type=m3u8
 
 
 
-#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}12.03",华丽翡翠台
+#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="TVB",华丽翡翠台
 https://tvlive.serv00.net/Smartv.php?id=Tvbjade
-#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}12.03",翡翠台北美版(TVBJ1)
+#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="TVB",翡翠台北美版(TVBJ1)
 https://cdn5.1678520.xyz/live/live2.1.php?id=j1
-#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB}12.03",*TVB plus
+#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="TVB",*TVB plus
 http://cdn3.1678520.xyz/live/?id=tvbp
 
 
 
+#EXTM3U url-tvg="https://live.hkdvb.com/epg/full.xml"
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE remote
+#EXT-X-SUB-URL https://live.hkdvb.com/hls/playlist.m3u?token=841221052046187
 
-#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB}12.03",Jade 翡翠台[直播]
-https://live.hkdvb.com/hls/live/81.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB}12.03",TVB PLUS[直播]
-https://live.hkdvb.com/hls/live/82.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="{TVB}12.03",News 新聞台[直播]
-https://live.hkdvb.com/hls/live/83.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="{TVB}12.03",Pearl 明珠台[直播]
-https://live.hkdvb.com/hls/live/84.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="{TVB}12.03",鳳凰香港台[直播]
-https://live.hkdvb.com/hls/live/85.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="89" tvg-name="華語劇台" tvg-logo="https://live.hkdvb.com/static/logos/803.png" group-title="{TVB}12.03",華語劇台[直播]
-https://live.hkdvb.com/hls/live/89.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="90" tvg-name="黃金華劇台" tvg-logo="https://live.hkdvb.com/static/logos/804.png" group-title="{TVB}12.03",黃金華劇台[直播]
-https://live.hkdvb.com/hls/live/90.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="200" tvg-name="粵語片台" tvg-logo="https://live.hkdvb.com/static/logos/804.png" group-title="{TVB}12.03",粵語片台[直播]
-https://live.hkdvb.com/hls/live/200.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="201" tvg-name="美亞電影台" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="{TVB}12.03",美亞電影台[直播]
-https://live.hkdvb.com/hls/live/201.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="206" tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="{TVB}12.03",Popc[直播]
-https://live.hkdvb.com/hls/live/206.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="800" tvg-name="翡翠4K" tvg-logo="https://live.hkdvb.com/static/logos/800.png" group-title="{TVB}12.03",翡翠4K[直播]
-https://live.hkdvb.com/hls/live/800.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="{TVB}12.03",HOY TV[直播]
-https://live.hkdvb.com/hls/live/77.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://live.hkdvb.com/static/logos/78.png" group-title="{TVB}12.03",HOY TV 資訊台[直播]
-https://live.hkdvb.com/hls/live/78.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="76" tvg-name="HOY 國際財經台" tvg-logo="https://live.hkdvb.com/static/logos/76.png" group-title="{TVB}12.03",HOY 國際財經台[直播]
-https://live.hkdvb.com/hls/live/76.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkdvb.com/static/logos/99.png" group-title="{TVB}12.03",ViuTV[直播]
-https://live.hkdvb.com/hls/live/99.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://live.hkdvb.com/static/logos/96.png" group-title="{TVB}12.03",ViuTV Six[直播]
-https://live.hkdvb.com/hls/live/96.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="133" tvg-name="Now Popcorn 爆谷台" tvg-logo="https://live.hkdvb.com/static/logos/133.png" group-title="{TVB}12.03",Now Popcorn 爆谷台[直播]
-https://live.hkdvb.com/hls/live/133.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{TVB}12.03",Now Superstars 星影台[直播]
-https://live.hkdvb.com/hls/live/138.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="332" tvg-name="Now NEWS 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="{TVB}12.03",Now NEWS 新聞台[直播]
-https://live.hkdvb.com/hls/live/332.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="621" tvg-name="Now Sports 英超1台" tvg-logo="https://live.hkdvb.com/static/logos/621.jpg" group-title="{TVB}12.03",Now Sports 英超1台[直播]
-https://live.hkdvb.com/hls/live/621.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://live.hkdvb.com/static/logos/630.png" group-title="{TVB}12.03",Now Sports Prime[直播]
-https://live.hkdvb.com/hls/live/630.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="632" tvg-name="Now Sports 632" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="{TVB}12.03",Now Sports 632[直播]
-https://live.hkdvb.com/hls/live/632.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="641" tvg-name="Now 641" tvg-logo="https://live.hkdvb.com/static/logos/641.png" group-title="{TVB}12.03",Now 641[直播]
-https://live.hkdvb.com/hls/live/641.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="642" tvg-name="Now 642" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="{TVB}12.03",Now 642[直播]
-https://live.hkdvb.com/hls/live/642.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://live.hkdvb.com/static/logos/31.png" group-title="{TVB}12.03",港台電視 31[直播]
-https://live.hkdvb.com/hls/live/31.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://live.hkdvb.com/static/logos/32.png" group-title="{TVB}12.03",港台電視 32[直播]
-https://live.hkdvb.com/hls/live/32.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="33" tvg-name="CCTV-1  港澳版" tvg-logo="https://live.hkdvb.com/static/logos/33.png" group-title="{TVB}12.03",CCTV-1  港澳版[直播]
-https://live.hkdvb.com/hls/live/33.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="34" tvg-name="CGTN Documentary" tvg-logo="https://live.hkdvb.com/static/logos/34.png" group-title="{TVB}12.03",CGTN Documentary[直播]
-https://live.hkdvb.com/hls/live/34.m3u8?token=841221052089160&edge=live.tvfree.sbs
-#EXTINF:-1 tvg-id="35" tvg-name="CGTN English" tvg-logo="https://live.hkdvb.com/static/logos/35.png" group-title="{TVB}12.03",CGTN English[直播]
-https://live.hkdvb.com/hls/live/35.m3u8?token=841221052089160&edge=live.tvfree.sbs
-
+#EXTINF:-1 tvg-id="81" tvg-name="Jade 翡翠台" tvg-logo="https://live.hkdvb.com/static/logos/81.png" group-title="{TVB12.16}    無綫電視",Jade 翡翠台[直播]
+https://live.hkdvb.com/hls/live/81.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="82" tvg-name="TVB PLUS" tvg-logo="https://live.hkdvb.com/static/logos/82.png" group-title="{TVB12.16}    無綫電視",TVB PLUS[直播]
+https://live.hkdvb.com/hls/live/82.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="83" tvg-name="News 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/83.png" group-title="{TVB12.16}    無綫電視",News 新聞台[直播]
+https://live.hkdvb.com/hls/live/83.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="84" tvg-name="Pearl 明珠台" tvg-logo="https://live.hkdvb.com/static/logos/84.png" group-title="{TVB12.16}    無綫電視",Pearl 明珠台[直播]
+https://live.hkdvb.com/hls/live/84.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="85" tvg-name="鳳凰香港台" tvg-logo="https://live.hkdvb.com/static/logos/85.png" group-title="{TVB12.16}    無綫電視",鳳凰香港台[直播]
+https://live.hkdvb.com/hls/live/85.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="89" tvg-name="華語劇台" tvg-logo="https://live.hkdvb.com/static/logos/803.png" group-title="{TVB12.16}    無綫電視",華語劇台[直播]
+https://live.hkdvb.com/hls/live/89.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="90" tvg-name="黃金華劇台" tvg-logo="https://live.hkdvb.com/static/logos/804.png" group-title="{TVB12.16}    無綫電視",黃金華劇台[直播]
+https://live.hkdvb.com/hls/live/90.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="200" tvg-name="粵語片台" tvg-logo="https://live.hkdvb.com/static/logos/804.png" group-title="{TVB12.16}    無綫電視",粵語片台[直播]
+https://live.hkdvb.com/hls/live/200.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="201" tvg-name="美亞電影台" tvg-logo="https://live.hkdvb.com/static/logos/802.png" group-title="{TVB12.16}    無綫電視",美亞電影台[直播]
+https://live.hkdvb.com/hls/live/201.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="206" tvg-name="Popc" tvg-logo="https://live.hkdvb.com/static/logos/801.png" group-title="{TVB12.16}    無綫電視",Popc[直播]
+https://live.hkdvb.com/hls/live/206.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="800" tvg-name="翡翠4K" tvg-logo="https://live.hkdvb.com/static/logos/800.png" group-title="{TVB12.16}    無綫電視",翡翠4K[直播]
+https://live.hkdvb.com/hls/live/800.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://live.hkdvb.com/static/logos/77.png" group-title="{TVB12.16} 奇妙電視",HOY TV[直播]
+https://live.hkdvb.com/hls/live/77.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="78" tvg-name="HOY TV 資訊台" tvg-logo="https://live.hkdvb.com/static/logos/78.png" group-title="{TVB12.16} 奇妙電視",HOY TV 資訊台[直播]
+https://live.hkdvb.com/hls/live/78.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="76" tvg-name="HOY 國際財經台" tvg-logo="https://live.hkdvb.com/static/logos/76.png" group-title="{TVB12.16} 奇妙電視",HOY 國際財經台[直播]
+https://live.hkdvb.com/hls/live/76.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://live.hkdvb.com/static/logos/99.png" group-title="{TVB12.16} Now Player",ViuTV[直播]
+https://live.hkdvb.com/hls/live/99.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://live.hkdvb.com/static/logos/96.png" group-title="{TVB12.16} Now Player",ViuTV Six[直播]
+https://live.hkdvb.com/hls/live/96.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="133" tvg-name="Now Popcorn 爆谷台" tvg-logo="https://live.hkdvb.com/static/logos/133.png" group-title="{TVB12.16} Now Player",Now Popcorn 爆谷台[直播]
+https://live.hkdvb.com/hls/live/133.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="138" tvg-name="Now Superstars 星影台" tvg-logo="https://live.hkdvb.com/static/logos/138.png" group-title="{TVB12.16} Now Player",Now Superstars 星影台[直播]
+https://live.hkdvb.com/hls/live/138.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="332" tvg-name="Now NEWS 新聞台" tvg-logo="https://live.hkdvb.com/static/logos/332.png" group-title="{TVB12.16} Now Player",Now NEWS 新聞台[直播]
+https://live.hkdvb.com/hls/live/332.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="621" tvg-name="Now Sports 英超1台" tvg-logo="https://live.hkdvb.com/static/logos/621.jpg" group-title="{TVB12.16} Now Player",Now Sports 英超1台[直播]
+https://live.hkdvb.com/hls/live/621.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="630" tvg-name="Now Sports Prime" tvg-logo="https://live.hkdvb.com/static/logos/630.png" group-title="{TVB12.16} Now Player",Now Sports Prime[直播]
+https://live.hkdvb.com/hls/live/630.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="632" tvg-name="Now Sports 632" tvg-logo="https://live.hkdvb.com/static/logos/632.jpg" group-title="{TVB12.16} Now Player",Now Sports 632[直播]
+https://live.hkdvb.com/hls/live/632.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="641" tvg-name="Now Sports 641" tvg-logo="https://live.hkdvb.com/static/logos/641.png" group-title="{TVB12.16} Now Player",Now Sports 641[直播]
+https://live.hkdvb.com/hls/live/641.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="642" tvg-name="Now Sports 642" tvg-logo="https://live.hkdvb.com/static/logos/642.png" group-title="{TVB12.16} Now Player",Now Sports 642[直播]
+https://live.hkdvb.com/hls/live/642.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="31" tvg-name="港台電視 31" tvg-logo="https://live.hkdvb.com/static/logos/31.png" group-title="{TVB12.16} 香港電台",港台電視 31[直播]
+https://live.hkdvb.com/hls/live/31.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="32" tvg-name="港台電視 32" tvg-logo="https://live.hkdvb.com/static/logos/32.png" group-title="{TVB12.16} 香港電台",港台電視 32[直播]
+https://live.hkdvb.com/hls/live/32.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="33" tvg-name="CCTV-1  港澳版" tvg-logo="https://live.hkdvb.com/static/logos/33.png" group-title="{TVB12.16} 香港電台",CCTV-1  港澳版[直播]
+https://live.hkdvb.com/hls/live/33.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="34" tvg-name="CGTN Documentary" tvg-logo="https://live.hkdvb.com/static/logos/34.png" group-title="{TVB12.16} 香港電台",CGTN Documentary[直播]
+https://live.hkdvb.com/hls/live/34.m3u8?token=841221052046187
+#EXTINF:-1 tvg-id="35" tvg-name="CGTN English" tvg-logo="https://live.hkdvb.com/static/logos/35.png" group-title="{TVB12.16} 香港電台",CGTN English[直播]
+https://live.hkdvb.com/hls/live/35.m3u8?token=841221052046187
 
 
 
@@ -272,14 +214,14 @@ http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生荔枝
 https://php.17186.eu.org/gdtv/web/gdgg.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生
-https://stream1.freetv.fun/6ae036b979a656855d580bfcec177fdcda063f1ad07f31bcd3086bbd8b2971a9.ctv
+http://mryx.fun:1025/udp/239.11.0.80:1025%24%E5%8D%8E%E4%B8%BA
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png",广东体育z
-http://tv.v2ssr.xyz/udp/239.77.0.168:5146
+http://113.102.83.24:4022/udp/239.77.0.112:5146
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png",广东体育j
-http://hls.cnlive.club/channel/b62f72a/index.m3u8?q=1733281139558
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png",广东体育J
+http://mryx.fun:1025/udp/239.10.0.113:1025%24%E5%8D%8E%E4%B8%BA
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道体育.png",广东体育J
 http://cnfs.204999.xyz:30080/judy520/judy520/3
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.pw/media/images/channel/2024/01/14/large/20240114130318634112_23.png",广东体育TVOD
+#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道体育.png",广东体育TVOD
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/.png",广州竞赛
 http://php.jdshipin.com:8880/gztv.php?id=jingsai
@@ -296,532 +238,7 @@ https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="LOVENATURE4K" tvg-name="LOVENATURE4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="•4K「IPV4」",Love Nature 4K「自然」
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="Loupe" tvg-name="Loupe" tvg-logo="https://epg.iill.top/logo/Loupe4K.png" group-title="•4K「IPV4」",Loupe 4K「视觉」
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="•4K「IPV4」",Fashion 4K「时尚」
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://epg.iill.top/logo/纯享4K.png" group-title="•4K「IPV6」",纯享·4K「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 tvg-id="华数4K" tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="•4K「IPV6」",华数·4K「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场png" group-title="•4K「IPV6」",欢笑剧场·4K「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV6」",CCTV1 综合「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010144/1.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•央视「IPV6」",CCTV2 财经「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="•央视「IPV6」",CCTV3 综艺「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="•央视「IPV6」",CCTV4 中文国际「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="•央视「IPV6」",CCTV5 体育「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="•央视「IPV6」",CCTV5+ 体育赛事「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="•央视「IPV6」",CCTV6 电影「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/1.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="•央视「IPV6」",CCTV7 国防军事「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/1.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="•央视「IPV6」",CCTV8 电视剧「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="•央视「IPV6」",CCTV9 纪录「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010217/1.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="•央视「IPV6」",CCTV 10 科教「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/1.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="•央视「IPV6」",CCTV 11 戏曲「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010092/1.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="•央视「IPV6」",CCTV 12 社会与法「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010205/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="•央视「IPV6」",CCTV 13 新闻「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/1.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="•央视「IPV6」",CCTV 14 少儿「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="•央视「IPV6」",CCTV 15 音乐「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://epg.iill.top/logo/CCTV16.png" group-title="•央视「IPV6」",CCTV 16 奥林匹克「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010142/1.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="•央视「IPV6」",CCTV 17 农村农业「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010210/1.m3u8
-#EXTINF:-1 tvg-id="中国教育电视台1" tvg-name="中国教育电视台1" tvg-logo="https://epg.iill.top/logo/CETV1.png" group-title="•央视「IPV6」",CETV 1 中国教育「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000002652/index.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="中国教育电视台4" tvg-name="中国教育电视台4" tvg-logo="https://epg.iill.top/logo/CETV4.png" group-title="•央视「IPV6」",CETV 2 中国教育「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031126/index.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="•卫视「IPV6」",湖南卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010224/1.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="•卫视「IPV6」",浙江卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010070/1.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="•卫视「IPV6」",江苏卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010225/1.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="•卫视「IPV6」",东方卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010219/1.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="•卫视「IPV6」",北京卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="•卫视「IPV6」",广东卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010221/1.m3u8
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.iill.top/logo/重庆卫视.png" group-title="•卫视「IPV6」",重庆卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010218/1.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="•卫视「IPV6」",深圳卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010068/1.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.iill.top/logo/四川卫视.png" group-title="•卫视「IPV6」",四川卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010115/1.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.iill.top/logo/广西卫视.png" group-title="•卫视「IPV6」",广西卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010099/1.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.iill.top/logo/天津卫视.png" group-title="•卫视「IPV6」",天津卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010069/1.m3u8
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.iill.top/logo/安徽卫视.png" group-title="•卫视「IPV6」",安徽卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010041/1.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.iill.top/logo/山东卫视.png" group-title="•卫视「IPV6」",山东卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010066/1.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.iill.top/logo/江西卫视.png" group-title="•卫视「IPV6」",江西卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010060/1.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.iill.top/logo/河北卫视.png" group-title="•卫视「IPV6」",河北卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010101/1.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.iill.top/logo/河南卫视.png" group-title="•卫视「IPV6」",河南卫视「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000005000017925/index.m3u8?channel-id=bestzb&Contentid=5000000005000017925&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.iill.top/logo/海南卫视.png" group-title="•卫视「IPV6」",海南卫视「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000004000006211/index.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.iill.top/logo/东南卫视.png" group-title="•卫视「IPV6」",东南卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010096/1.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.iill.top/logo/湖北卫视.png" group-title="•卫视「IPV6」",湖北卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010223/1.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.iill.top/logo/贵州卫视.png" group-title="•卫视「IPV6」",贵州卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010100/1.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="•卫视「IPV6」",辽宁卫视「IPV6
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010061/1.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.iill.top/logo/吉林卫视.png" group-title="•卫视「IPV6」",吉林卫视「IPV6」
-http://[2409:8087:5e08:24::8]:6610/000000001000/5000000011000031117/index.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.iill.top/logo/黑龙江卫视.png" group-title="•卫视「IPV6」",黑龙江卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010222/1.m3u8
-#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.iill.top/logo/云南卫视.png" group-title="•卫视「IPV6」",云南卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.iill.top/logo/甘肃卫视.png" group-title="•卫视「IPV6」",甘肃卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010098/1.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.iill.top/logo/青海卫视.png" group-title="•卫视「IPV6」",青海卫视「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010111/1.m3u8
-#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://epg.iill.top/logo/NewTV哒啵电竞.png" group-title="•NewTV「IPV6」",NewTV 哒啵电竞「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://epg.iill.top/logo/NewTV哒啵赛事.png" group-title="•NewTV「IPV6」",NewTV 哒啵赛事「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010120/1.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://epg.iill.top/logo/NewTV黑莓动画.png" group-title="•NewTV「IPV6」",NewTV 黑莓动画「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010002/1.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://epg.iill.top/logo/NewTV黑莓电影.png" group-title="•NewTV「IPV6」",NewTV 黑莓电影「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/1.m3u8
-#EXTINF:-1 tvg-id="超级电影" tvg-name="超级电影" tvg-logo="https://epg.iill.top/logo/NewTV超级电影.png" group-title="•NewTV「IPV6」",NewTV 超级电影「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010064/1.m3u8
-#EXTINF:-1 tvg-id="超级电视剧" tvg-name="超级电视剧" tvg-logo="https://epg.iill.top/logo/NewTV超级电视剧.png" group-title="•NewTV「IPV6」",NewTV 超级电视剧「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010065/1.m3u8
-#EXTINF:-1 tvg-id="超级体育" tvg-name="超级体育" tvg-logo="https://epg.iill.top/logo/NewTV超级体育.png" group-title="•NewTV「IPV6」",NewTV 超级体育「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="超级综艺" tvg-name="超级综艺" tvg-logo="https://epg.iill.top/logo/NewTV超级综艺.png" group-title="•NewTV「IPV6」",NewTV 超级综艺「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/1.m3u8
-#EXTINF:-1 tvg-id="金牌综艺" tvg-name="金牌综艺" tvg-logo="https://epg.iill.top/logo/NewTV金牌综艺.png" group-title="•NewTV「IPV6」",NewTV 金牌综艺「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010086/1.m3u8
-#EXTINF:-1 tvg-id="魅力潇湘" tvg-name="魅力潇湘" tvg-logo="https://epg.iill.top/logo/NewTV魅力潇湘.png" group-title="•NewTV「IPV6」",NewTV 魅力潇湘「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000041&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="东北热剧" tvg-name="东北热剧" tvg-logo="https://epg.iill.top/logo/NewTV东北热剧.png" group-title="•NewTV「IPV6」",NewTV 东北热剧「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010021/1.m3u8
-#EXTINF:-1 tvg-id="古装剧场" tvg-name="古装剧场" tvg-logo="https://epg.iill.top/logo/NewTV古装剧场.png" group-title="•NewTV「IPV6」",NewTV 古装剧场「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8
-#EXTINF:-1 tvg-id="欢乐剧场" tvg-name="欢乐剧场" tvg-logo="https://epg.iill.top/logo/NewTV欢乐剧场.png" group-title="•NewTV「IPV6」",NewTV 欢乐剧场「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010025/1.m3u8
-#EXTINF:-1 tvg-id="怡伴健康" tvg-name="怡伴健康" tvg-logo="https://epg.iill.top/logo/NewTV怡伴健康.png" group-title="•NewTV「IPV6」",NewTV 怡伴健康「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010082/1.m3u8
-#EXTINF:-1 tvg-id="潮妈辣婆" tvg-name="潮妈辣婆" tvg-logo="https://epg.iill.top/logo/NewTV潮妈辣婆.png" group-title="•NewTV「IPV6」",NewTV 潮妈辣婆「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010005/1.m3u8
-#EXTINF:-1 tvg-id="军旅剧场" tvg-name="军旅剧场" tvg-logo="https://epg.iill.top/logo/NewTV军旅剧场.png" group-title="•NewTV「IPV6」",NewTV 军旅剧场「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010079/1.m3u8
-#EXTINF:-1 tvg-id="军事评论" tvg-name="军事评论" tvg-logo="https://epg.iill.top/logo/NewTV军事评论.png" group-title="•NewTV「IPV6」",NewTV 军事评论「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010080/1.m3u8
-#EXTINF:-1 tvg-id="中国功夫" tvg-name="中国功夫" tvg-logo="https://epg.iill.top/logo/NewTV中国功夫.png" group-title="•NewTV「IPV6」",NewTV 中国功夫「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010087/1.m3u8
-#EXTINF:-1 tvg-id="农业致富" tvg-name="农业致富" tvg-logo="https://epg.iill.top/logo/NewTV农业致富.png" group-title="•NewTV「IPV6」",NewTV 农业致富「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010085/1.m3u8
-#EXTINF:-1 tvg-id="动作电影" tvg-name="动作电影" tvg-logo="https://epg.iill.top/logo/NewTV动作电影.png" group-title="•NewTV「IPV6」",NewTV 动作电影「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
-#EXTINF:-1 tvg-id="家庭剧场" tvg-name="家庭剧场" tvg-logo="https://epg.iill.top/logo/NewTV家庭剧场.png" group-title="•NewTV「IPV6」",NewTV 家庭剧场「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010074/1.m3u8
-#EXTINF:-1 tvg-id="惊悚悬疑" tvg-name="惊悚悬疑" tvg-logo="https://epg.iill.top/logo/NewTV惊悚悬疑.png" group-title="•NewTV「IPV6」",NewTV 惊悚悬疑「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010077/1.m3u8
-#EXTINF:-1 tvg-id="炫舞未来" tvg-name="炫舞未来" tvg-logo="https://epg.iill.top/logo/NewTV炫舞未来.png" group-title="•NewTV「IPV6」",NewTV 炫舞未来「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="精品萌宠" tvg-name="精品萌宠" tvg-logo="https://epg.iill.top/logo/NewTV精品萌宠.png" group-title="•NewTV「IPV6」",NewTV 精品萌宠「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010146/1.m3u8
-#EXTINF:-1 tvg-id="精品体育" tvg-name="精品体育" tvg-logo="https://epg.iill.top/logo/NewTV精品体育.png" group-title="•NewTV「IPV6」",NewTV 精品体育「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010078/1.m3u8
-#EXTINF:-1 tvg-id="精品大剧" tvg-name="精品大剧" tvg-logo="https://epg.iill.top/logo/NewTV精品大剧.png" group-title="•NewTV「IPV6」",NewTV 精品大剧「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010072/1.m3u8
-#EXTINF:-1 tvg-id="精品记录" tvg-name="精品记录" tvg-logo="https://epg.iill.top/logo/NewTV精品记录.png" group-title="•NewTV「IPV6」",NewTV 精品记录「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010076/1.m3u8
-#EXTINF:-1 tvg-id="爱喜剧" tvg-name="爱喜剧" tvg-logo="https://epg.iill.top/logo/iHOT爱喜剧.png" group-title="•iHOT「IPV6」",iHOT 爱喜剧「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.iill.top/logo/iHOT爱科幻.png" group-title="•iHOT「IPV6」",iHOT 爱科幻「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.iill.top/logo/iHOT爱院线.png" group-title="•iHOT「IPV6」",iHOT 爱院线「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.iill.top/logo/iHOT爱浪漫.png" group-title="•iHOT「IPV6」",iHOT 爱浪漫「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://epg.iill.top/logo/iHOT爱悬疑.png" group-title="•iHOT「IPV6」",iHOT 爱悬疑「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.iill.top/logo/iHOT爱谍战.png" group-title="•iHOT「IPV6」",iHOT 爱谍战「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://epg.iill.top/logo/iHOT爱历史.png" group-title="•iHOT「IPV6」",iHOY 爱历史「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://epg.iill.top/logo/iHOT爱科学.png" group-title="•iHOT「IPV6」",iHOT 爱科学「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://epg.iill.top/logo/iHOT爱幼教.png" group-title="•iHOT「IPV6」",iHOT 爱幼教「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://epg.iill.top/logo/iHOT爱玩具.png" group-title="•iHOT「IPV6」",iHOT 爱玩具「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://epg.iill.top/logo/iHOT爱赛车.png" group-title="•iHOT「IPV6」",iHOT 爱赛车「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://epg.iill.top/logo/iHOT爱旅行.png" group-title="•iHOT「IPV6」",iHOT 爱旅行「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱奇谈" tvg-name="爱奇谈" tvg-logo="https://epg.iill.top/logo/iHOT爱奇谈.png" group-title="•iHOT「IPV6」",iHOT 爱奇谈「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://epg.iill.top/logo/iHOT爱动漫.png" group-title="•iHOT「IPV6」",iHOT 爱动漫「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.iill.top/logo/iHOT爱体育.png" group-title="•iHOT「IPV6」",iHOT 爱体育「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="•地区「IPV6」",广东珠江「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="•地区「IPV6」",东方财经「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="•地区「IPV6」",东方影视「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="•地区「IPV6」",上海都市「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.iill.top/logo/上海新闻.png" group-title="•地区「IPV6」",上海新闻「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://epg.iill.top/logo/上海外语.png" group-title="•地区「IPV6」",ICS「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://epg.iill.top/logo/海南公共.png" group-title="•地区「IPV6」",海南公共「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
-#EXTINF:-1 tvg-id="海南少儿" tvg-name="海南少儿" tvg-logo="https://epg.iill.top/logo/海南少儿.png" group-title="•地区「IPV6」",海南少儿「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
-#EXTINF:-1 tvg-id="海南文旅" tvg-name="海南文旅" tvg-logo="https://epg.iill.top/logo/海南文旅.png" group-title="•地区「IPV6」",海南文旅「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
-#EXTINF:-1 tvg-id="海南新闻" tvg-name="海南新闻" tvg-logo="https://epg.iill.top/logo/海南新闻.png" group-title="•地区「IPV6」",海南新闻「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
-#EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://epg.iill.top/logo/海南自贸.png" group-title="•地区「IPV6」",海南自贸「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.iill.top/logo/中国天气.png" group-title="•数字「IPV6」",中国天气「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://epg.iill.top/logo/纪实人文.png" group-title="•数字「IPV6」",纪实人文「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000004000010282/index.m3u8?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://epg.iill.top/logo/纪实科教.png" group-title="•数字「IPV6」",纪实科教「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/1000000001000001910/index.m3u8?channel-id=ystenlive&Contentid=1000000001000001910&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://epg.iill.top/logo/求索纪录.png" group-title="•数字「IPV6」",求索纪录「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://epg.iill.top/logo/求索生活.png" group-title="•数字「IPV6」",求索生活「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://epg.iill.top/logo/求索动物.png" group-title="•数字「IPV6」",求索动物「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="求索科学" tvg-name="求索科学" tvg-logo="https://epg.iill.top/logo/求索科学.png" group-title="•数字「IPV6」",求索科学「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="•数字「IPV6」",魅力足球「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="精彩影视" tvg-name="精彩影视" tvg-logo="https://epg.iill.top/logo/精彩影视.png" group-title="•数字「IPV6」",精彩影视「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="•数字「IPV6」",SiTV 五星体育「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="•数字「IPV6」",SiTV 劲爆体育「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="•数字「IPV6」",SiTV 欢笑剧场「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://epg.iill.top/logo/法治天地.png" group-title="•数字「IPV6」",SiTV 法治天地「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://epg.iill.top/logo/七彩戏剧.png" group-title="•数字「IPV6」",SiTV 七彩戏剧「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://epg.iill.top/logo/乐游.png" group-title="•数字「IPV6」",SiTV 乐游「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://epg.iill.top/logo/动漫秀场.png" group-title="•数字「IPV6」",SiTV 动漫秀场「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://epg.iill.top/logo/游戏风云.png" group-title="•数字「IPV6」",SiTV 游戏风云「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.iill.top/logo/生活时尚.png" group-title="•数字「IPV6」",SiTV 生活时尚「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://epg.iill.top/logo/都市剧场.png" group-title="•数字「IPV6」",SiTV 都市剧场「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://epg.iill.top/logo/金色学堂.png" group-title="•数字「IPV6」",SiTV 金色学堂「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="•数字「IPV6」",SiTV 第一财经「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://epg.iill.top/logo/哈哈炫动.png" group-title="•数字「IPV6」",哈哈炫动「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031123/index.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.iill.top/logo/金鹰卡通.png" group-title="•数字「IPV6」",金鹰卡通「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.iill.top/logo/金鹰纪实.png" group-title="•数字「IPV6」",金鹰纪实「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/index.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://epg.iill.top/logo/茶频道.png" group-title="•数字「IPV6」",茶频道「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.iill.top/logo/快乐垂钓.png" group-title="•数字「IPV6」",快乐垂钓「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031206/index.m3u8?channel-id=bestzb&Contentid=5000000011000031206&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="全民热练" tvg-name="全民热练" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•数字「IPV6」",晴彩青少「IPV6」
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010147/1.m3u8
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",JJ斗地主赛事「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",不知道叫啥 𝟙「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",不知道叫啥 𝟚「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",你叫啥都行 𝟙「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000002/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000002&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",你叫啥都行 𝟚「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000003/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000003&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",你叫啥都行 𝟛「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",你叫啥都行 𝟜「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",你叫啥都行 𝟝「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",你叫啥都行 𝟞「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",你叫啥都行 𝟟「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•数字「IPV6」",你叫啥都行 𝟠「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000017/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000017&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="华数4K" tvg-logo="https://epg.iill.top/logo/华数4K.png" group-title="•限制「IPV6」",4K 影视「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://epg.iill.top/logo/NewTV哒啵电竞.png" group-title="•限制「IPV6」",NewTV 哒啵电竞「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="魅力潇湘" tvg-logo="https://epg.iill.top/logo/NewTV魅力潇湘.png" group-title="•限制「IPV6」",NewTV 魅力潇湘「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000041/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000041&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="•限制「IPV6」",SiTV 五星体育「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://epg.iill.top/logo/劲爆体育.png" group-title="•限制「IPV6」",SiTV 劲爆体育「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://epg.iill.top/logo/欢笑剧场.png" group-title="•限制「IPV6」",SiTV 欢笑剧场「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://epg.iill.top/logo/法治天地.png" group-title="•限制「IPV6」",SiTV 法治天地「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="七彩戏剧" tvg-logo="https://epg.iill.top/logo/七彩戏剧.png" group-title="•限制「IPV6」",SiTV 七彩戏剧「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="乐游" tvg-logo="https://epg.iill.top/logo/乐游.png" group-title="•限制「IPV6」",SiTV 乐游「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://epg.iill.top/logo/动漫秀场.png" group-title="•限制「IPV6」",SiTV 动漫秀场「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://epg.iill.top/logo/游戏风云.png" group-title="•限制「IPV6」",SiTV 游戏风云「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://epg.iill.top/logo/生活时尚.png" group-title="•限制「IPV6」",SiTV 生活时尚「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://epg.iill.top/logo/都市剧场.png" group-title="•限制「IPV6」",SiTV 都市剧场「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://epg.iill.top/logo/金色学堂.png" group-title="•限制「IPV6」",SiTV 金色学堂「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="•限制「IPV6」",SiTV 第一财经「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="•限制「IPV6」",广东珠江「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://epg.iill.top/logo/东方财经.png" group-title="•限制「IPV6」",东方财经「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="•限制「IPV6」",东方影视「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="上海都市" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="•限制「IPV6」",上海都市「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="上海新闻综合" tvg-logo="https://epg.iill.top/logo/上海新闻.png" group-title="•限制「IPV6」",上海新闻「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="上海外语" tvg-logo="https://epg.iill.top/logo/上海外语.png" group-title="•限制「IPV6」",ICS「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://epg.iill.top/logo/求索纪录.png" group-title="•限制「IPV6」",求索纪录「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="求索生活" tvg-logo="https://epg.iill.top/logo/求索生活.png" group-title="•限制「IPV6」",求索生活「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="求索动物" tvg-logo="https://epg.iill.top/logo/求索动物.png" group-title="•限制「IPV6」",求索动物「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="求索科学" tvg-logo="https://epg.iill.top/logo/求索科学.png" group-title="•限制「IPV6」",求索科学「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://epg.iill.top/logo/魅力足球.png" group-title="•限制「IPV6」",魅力足球「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://epg.iill.top/logo/精彩影视.png" group-title="•限制「IPV6」",精彩影视「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱喜剧" tvg-logo="https://epg.iill.top/logo/iHOT爱喜剧.png" group-title="•限制「IPV6」",iHOT 爱喜剧「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱科幻" tvg-logo="https://epg.iill.top/logo/iHOT爱科幻.png" group-title="•限制「IPV6」",iHOT 爱科幻「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱院线" tvg-logo="https://epg.iill.top/logo/iHOT爱院线.png" group-title="•限制「IPV6」",iHOT 爱院线「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱浪漫" tvg-logo="https://epg.iill.top/logo/iHOT爱浪漫.png" group-title="•限制「IPV6」",iHOT 爱浪漫「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱悬疑" tvg-logo="https://epg.iill.top/logo/iHOT爱悬疑.png" group-title="•限制「IPV6」",iHOT 爱悬疑「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱谍战" tvg-logo="https://epg.iill.top/logo/iHOT爱谍战.png" group-title="•限制「IPV6」",iHOT 爱谍战「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱历史" tvg-logo="https://epg.iill.top/logo/iHOT爱历史.png" group-title="•限制「IPV6」",iHOY 爱历史「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱科学" tvg-logo="https://epg.iill.top/logo/iHOT爱科学.png" group-title="•限制「IPV6」",iHOT 爱科学「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱幼教" tvg-logo="https://epg.iill.top/logo/iHOT爱幼教.png" group-title="•限制「IPV6」",iHOT 爱幼教「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱玩具" tvg-logo="https://epg.iill.top/logo/iHOT爱玩具.png" group-title="•限制「IPV6」",iHOT 爱玩具「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱赛车" tvg-logo="https://epg.iill.top/logo/iHOT爱赛车.png" group-title="•限制「IPV6」",iHOT 爱赛车「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱旅行" tvg-logo="https://epg.iill.top/logo/iHOT爱旅行.png" group-title="•限制「IPV6」",iHOT 爱旅行「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱奇谈" tvg-logo="https://epg.iill.top/logo/iHOT爱奇谈.png" group-title="•限制「IPV6」",iHOT 爱奇谈「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱动漫" tvg-logo="https://epg.iill.top/logo/iHOT爱动漫.png" group-title="•限制「IPV6」",iHOT 爱动漫「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-name="爱体育" tvg-logo="https://epg.iill.top/logo/iHOT爱体育.png" group-title="•限制「IPV6」",iHOT 爱体育「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",JJ斗地主赛事「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",不知道叫啥 𝟙「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",不知道叫啥 𝟚「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",你叫啥都行 𝟙「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000002/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000002&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",你叫啥都行 𝟚「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000003/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000003&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",你叫啥都行 𝟛「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000004&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",你叫啥都行 𝟜「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000005&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",你叫啥都行 𝟝「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",你叫啥都行 𝟞「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000007&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",你叫啥都行 𝟟「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",你叫啥都行 𝟠「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000017/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000017&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",BesTV 𝟙「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",BesTV 𝟚「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",BesTV 𝟛「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",BesTV 𝟜「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",BesTV 𝟝「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",BesTV 𝟞「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/百事通.png" group-title="•限制「IPV6」",BesTV 𝟟「IPV6」
-http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-
-
-
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「全球总决赛」英雄联盟 4K
-http://dns.yiandrive.com:10472/huya/18524915
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「全球总决赛」英雄联盟 4K
-http://dns.yiandrive.com:10472/bilibili/10
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」CS 2
-http://dns.yiandrive.com:10472/bilibili/21622811
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」CS 2
-http://dns.yiandrive.com:10472/huya/483917
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟
-http://dns.yiandrive.com:10472/bilibili/6
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟙
-http://dns.yiandrive.com:10472/huya/660000
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」英雄联盟 𝟚
-http://dns.yiandrive.com:10472/huya/660001
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」英雄联盟 𝟙
-http://dns.yiandrive.com:10472/douyu/288016
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」英雄联盟 𝟚
-http://dns.yiandrive.com:10472/douyu/424559
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」英雄联盟•手游
-http://dns.yiandrive.com:10472/bilibili/23138275
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」王者荣耀 𝟙
-http://dns.yiandrive.com:10472/bilibili/55
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」王者荣耀 𝟚
-http://dns.yiandrive.com:10472/bilibili/21654762
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」王者荣耀 𝟙
-http://dns.yiandrive.com:10472/huya/660002
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」王者荣耀 𝟚
-http://dns.yiandrive.com:10472/huya/660164
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」王者荣耀 𝟙
-http://dns.yiandrive.com:10472/douyu/1863767
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」王者荣耀 𝟚
-http://dns.yiandrive.com:10472/douyu/1984839
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」绝地求生
-http://dns.yiandrive.com:10472/bilibili/98
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」绝地求生 𝟙
-http://dns.yiandrive.com:10472/huya/660004
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」绝地求生 𝟚
-http://dns.yiandrive.com:10472/huya/660005
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」绝地求生
-http://dns.yiandrive.com:10472/douyu/100
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」和平精英
-http://dns.yiandrive.com:10472/huya/660006
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」和平精英
-http://dns.yiandrive.com:10472/douyu/999
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」金铲铲之战
-http://dns.yiandrive.com:10472/huya/660579
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」金铲铲之战
-http://dns.yiandrive.com:10472/douyu/9715241
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」DOTA2
-http://dns.yiandrive.com:10472/huya/660118
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」DOTA2
-http://dns.yiandrive.com:10472/douyu/3811559
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」云顶之弈
-http://dns.yiandrive.com:10472/douyu/522423
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」永劫无间
-http://dns.yiandrive.com:10472/huya/660115
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」永劫无间
-http://dns.yiandrive.com:10472/huya/9662891
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」使命召唤•手游
-http://dns.yiandrive.com:10472/bilibili/22741849
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」使命召唤•手游
-http://dns.yiandrive.com:10472/huya/11718629
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」使命召唤•手游
-http://dns.yiandrive.com:10472/douyu/9223245
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」穿越火线
-http://dns.yiandrive.com:10472/huya/660101
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」穿越火线 𝟙
-http://dns.yiandrive.com:10472/douyu/605964
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」穿越火线 𝟚
-http://dns.yiandrive.com:10472/douyu/5388537
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」穿越火线•手游
-http://dns.yiandrive.com:10472/huya/660102
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」第五人格
-http://dns.yiandrive.com:10472/bilibili/5555
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」第五人格
-http://dns.yiandrive.com:10472/huya/idvesports
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」第五人格
-http://dns.yiandrive.com:10472/douyu/3226194
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」逆战
-http://dns.yiandrive.com:10472/huya/nsl2021
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」无畏契约
-http://dns.yiandrive.com:10472/bilibili/22908869
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/虎牙.png" group-title="•游戏「赛事」",「虎牙」无畏契约
-http://dns.yiandrive.com:10472/huya/660679
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」无畏契约
-http://dns.yiandrive.com:10472/douyu/4585645
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」原神
-http://dns.yiandrive.com:10472/douyu/10853239
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」QQ飞车•手游
-http://dns.yiandrive.com:10472/bilibili/21743919
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」QQ飞车•手游
-http://dns.yiandrive.com:10472/douyu/5040227
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」梦幻西游·手游
-http://dns.yiandrive.com:10472/huya/9163712
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」街霸
-http://dns.yiandrive.com:10472/huya/11437
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」JJ斗地主
-http://dns.yiandrive.com:10472/bilibili/22021983
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」JJ斗地主
-http://dns.yiandrive.com:10472/douyu/488743
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」我的世界
-http://dns.yiandrive.com:10472/douyu/738878
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」FIFA
-http://dns.yiandrive.com:10472/douyu/7692166
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」火影忍者
-http://dns.yiandrive.com:10472/douyu/1997723
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」跑跑卡丁车
-http://dns.yiandrive.com:10472/douyu/7722576
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/斗鱼.png" group-title="•游戏「赛事」",「斗鱼」跑跑卡丁车•手游
-http://dns.yiandrive.com:10472/douyu/6672862
 
 
 #EXTINF:-1 tvg-name="星河台" tvg-logo="https://yang-1989.eu.org/logo/星河台.png" group-title="•港澳台「壹」",TVB 星河
@@ -859,32 +276,3 @@ http://43.138.170.29:35455/douyu/2516864
 
 
 
-
-#EXTINF:-1 group-title="广东频道测试" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广东频道体育超清9
-http://113.100.72.40:8899/udp/239.77.0.168:5146
-#EXTINF:-1 group-title="广东频道测试" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广东频道珠江高清9
-http://113.100.72.40:8899/udp/239.77.0.1:5146
-#EXTINF:-1 group-title="广东频道测试" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广东频道新闻高清9
-http://113.100.72.40:8899/udp/239.77.0.173:5146
-#EXTINF:-1 group-title="广东频道测试" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广东频道民生高清9
-http://wss.02200059.xyz:60009/udp/239.77.0.225:5146
-http://13457610200.8866.org:2018/live/%E5%B9%BF%E4%B8%9C%E5%85%AC%E5%85%B1HD/index.m3u8
-
-#EXTINF:-1 group-title="广东频道测试" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",大湾区卫视高清
-http://113.100.72.40:8899/udp/239.77.0.215:5146
-#EXTINF:-1 group-title="广东频道测试" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广州综合高清
-http://113.100.72.40:8899/udp/239.253.43.71:5146
-#EXTINF:-1 group-title="广东频道测试" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广州新闻
-http://113.100.72.40:8899/udp/239.253.43.72:5146
-#EXTINF:-1 group-title="广东频道测试" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广州影视
-http://113.100.72.40:8899/udp/239.253.43.73:5146
-#EXTINF:-1 group-title="广东频道测试" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广州法治
-http://113.100.72.40:8899 /udp/239.253.43.74:5146
-#EXTINF:-1 group-title="广东频道测试" tvg-logo="https://epg.pw/media/images/channel/2017/03/04/large/20170304160622206825_53.png",广州南国都市
-http://113.100.72.40:8899/udp/239.253.43.99:5146
-#EXTINF:-1 group-title="广东频道测试" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/lingnanxiqu.jpg",岭南戏曲
-http://113.100.72.40:8899/udp/239.77.0.122:5146
-#EXTINF:10.000,group-title="广东频道测试" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/dgtv1.jpg",东莞新闻综合
-http://113.100.72.40:8899/udp/239.253.43.104:5146
-#EXTINF:10.000,group-title="广东频道测试" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/dgtv2.jpg",东莞生活
-http://113.100.72.40:8899/udp/239.253.43.105:5146
