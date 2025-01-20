@@ -420,36 +420,15 @@ https://itv.iill.top/itv/PLTV/channel-id=bestzb&Contentid=5000000011000288016&li
 
 
 
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/%E5%B9%BF%E4%B8%9C%E6%96%B0%E9%97%BB.png",广东新闻荔枝
-https://php.17186.eu.org/gdtv/web/xwpd.m3u8
+
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江IPV6
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8%24LR%E2%80%A2IPV6%E3%80%8E%E7%BA%BF%E8%B7%AF2%E3%80%8F
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江荔枝
-https://php.17186.eu.org/gdtv/web/gdzj.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江itv6
 http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000004000011655
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道珠江.png",广东珠江TVOD
 http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生荔枝
-https://php.17186.eu.org/gdtv/web/gdgg.m3u8
 #EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/广东频道民生.png",广东民生
 https://stream1.freetv.fun/6ae036b979a656855d580bfcec177fdcda063f1ad07f31bcd3086bbd8b2971a9.ctv
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.v1.mk/logo/广东体育.png",广东体育z
-http://cdn2.132.us.kg/live/gdty/stream.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.v1.mk/logo/广东体育.png",广东体育j
-https://video.mytvsuper.xyz/live/ceafa4f2908680f0e7ac6fc3e36fe0f73efcbe734e0917c9a1dd108f6e342aba.php?token=841221052107192
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.v1.mk/logo/广东体育.png",广东体育TVOD
-http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://epg.v1.mk/logo/广东体育.png",广东体育1
-https://video.mytvsuper.xyz/live/907a6023e766d0bce76520d0ecfef51692200af2f26dd1bc454c4fbbcbea1f86.m3u8?token=841221052107192
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://live.fanmingming.com/tv/.png",广州竞赛
-http://php.jdshipin.com:8880/gztv.php?id=jingsai
-#EXTINF:-1 group-title="广东频道" tvg-logo="https:://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视荔枝
-https://php.17186.eu.org/gdtv/web/nfws.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https:://live.fanmingming.com/tv/大湾区卫视.png",大湾区卫视ipv6
-http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010108/1.m3u8
-#EXTINF:-1 group-title="广东频道" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/lingnanxiqu.jpg",岭南戏曲
-http://120.237.241.82:4000/udp/239.77.0.122:5146
 #EXTINF:10.000,group-title="广东频道" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/dgtv1.jpg",东莞新闻综合
 https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
 #EXTINF:10.000,group-title="广东频道" tvg-logo="https://gitee.com/sglive/tv/raw/mytv/tb/dgtv2.jpg",东莞生活
